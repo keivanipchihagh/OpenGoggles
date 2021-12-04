@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Ubuntu';
+}
+
+.content {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	padding: 20px;
+}
+
+.auth-header {
+	text-align: center;
+}
+
+.auth-body form {
+	padding: 10px;
+}
+
+.auth-body .error {
+	color: red;
+	font-size: 12px;
+	text-align: center;
+	display: block;
+}
+
+.auth-body .fieldWrapper {
+	margin: 5px;
+}
+
+.auth-body button {
+	margin-top: 30px;
+	padding: 10px;
+	width: 100%;
+	background-color: #343a40!important;
+	border: none;
+}
+
+.auth-body .fieldWrapper input {
+	margin: 5px;
+	padding: 10px 10px;
+	background-color: #e6e6e6;
+	border: none;	
+}

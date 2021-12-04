@@ -1,3 +1,44 @@
-<form method="post">
-    {{ form }}
-</form>
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Open Goggles | Login</title>
+
+	<!-- Bootstrap 5.0.2 -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+	<!-- Google Fonts -->	
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+	<!-- Styles-->
+    <link rel="stylesheet" type="text/css" href="{% static 'dashboard/style.css' %}">
+</head>
+<body>
+	<!-- Login -->
+	<div class="content">
+		<div class="auth">
+			<div class="auth-header"><h1>{{ 'Login'|upper }}</h1></div>
+			<div class="auth-body">
+				<label class="error">{{ error_message }}</label>
+				<form action="{% url 'dashboard:login' %}" method="post">
+					{% csrf_token %}
+					{% for field in form %}
+					<div class="fieldWrapper">						
+						<input type="text" {% if field.value %}value="{{ field.value }}"{% endif %}} name="{{ field.html_name }}" placeholder="{{ field.label }}">
+						{% for error in field.errors %}
+							<label class="error">{{ error }}</label>
+						{% endfor %}
+					</div>
+					{% endfor %}
+					<!-- Remember Me-->
+					<div class="fieldWrapper">
+						<input type="checkbox" name="remember_me" value="1"><label for="remember_me">Remember Me</label>
+					</div>
+					<button type="submit" class="btn btn-primary">Login</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,14 +1,20 @@
-from django.forms import ModelForm
+from django import forms
+from django.contrib.auth import authenticate
+from django.forms import Form
 from .models import *
 
 
-class RegisterForm(ModelForm):
+class RegisterForm(Form):
     class Meta:
         model = User
-        fields = '__all__'
+        fields = ['first_name', 'last_name', 'username', 'email', 'password']
 
 
-class LoginForm(ModelForm):
-    class Meta:
-        model = User
-        fields = ['email_address', 'password']
+class LoginForm(Form):
+    email = forms.EmailField(required = True, label = 'Email Address')
+    password = forms.CharField(widget = forms.PasswordInput())
+
+    fields = ['email', 'password']
+    
+    def login(self, request):
+        return authenticate(username = self.cleaned_data['email'], password = self.cleaned_data['password'])
