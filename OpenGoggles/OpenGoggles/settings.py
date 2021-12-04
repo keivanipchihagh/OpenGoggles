@@ -54,6 +54,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+AUTH_USER_MODEL = 'dashboard.User'  # Changed default auth model
+
 ROOT_URLCONF = 'OpenGoggles.urls'
 
 TEMPLATES = [
