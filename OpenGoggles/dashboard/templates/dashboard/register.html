@@ -22,19 +22,21 @@
 				<h1>{{ 'Register'|upper }}</h1>
 			</div>
 			<div class="auth-body">
-				<form action="" method="post">
-					{% for field in form %}
+				<label class="error">{{ message }}</label>
+				<form action="{% url 'dashboard:register' %}" method="post">
 					{% csrf_token %}
-					<div class="fieldWrapper">
-						{{ field.errors }}
-						<input type="text" name="{{ field.html_name }}" placeholder="{{ field.label }}">
+					{% for field in form %}					
+					<div class="fieldWrapper">						
+						<input type="text" {% if field.value %} value="{{ field.value }}"{% endif %}} name="{{ field.html_name }}" placeholder="{{ field.label }}">
+						{% for error in field.errors %}
+							<label class="error">{{ error }}</label>
+						{% endfor %}
 					</div>
-					{% endfor %}
-					<!-- Remember Me-->
-					<div class="fieldWrapper">
-						<input type="checkbox" name="remember_me" value="1"><label for="remember_me">Remember Me</label>
-					</div>					
+					{% endfor %}					
 					<button type="submit" class="btn btn-primary">Register</button>
+					<div  class="auth-link">
+						<a href="{% url "dashboard:login" %}">Already have an account?</a>
+					</div>
 				</form>
 			</div>
 		</div>

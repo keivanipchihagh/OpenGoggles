@@ -17,7 +17,6 @@ def loginView(request):
     form = LoginForm(request.POST or None)
 
     if request.method == 'POST' and form.is_valid():
-
         user = form.login(request)  # Authenticate the user        
         if user:
             # Login the user and redirect to the dashboard       
@@ -37,6 +36,12 @@ def logoutView(request):
 
 
 def registerView(request):
-    return render(request, 'dashboard/register.html', context = {
-        'form': RegisterForm(),
-    })
+
+    form = RegisterForm(request.POST or None)
+
+    if request.method == 'POST' and form.is_valid():
+        form.save()
+        return HttpResponseRedirect(reverse('dashboard:login'))
+    else:
+        # Return the form with errors
+        return render(request, 'dashboard/register.html', context = { 'form': form })

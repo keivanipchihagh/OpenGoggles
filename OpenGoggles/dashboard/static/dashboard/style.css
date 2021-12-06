@@ -27,6 +27,15 @@
 	display: block;
 }
 
+.auth-body .auth-link {
+	text-align: end;
+}
+
+.auth-body .auth-link a {
+	font-size: 12px;
+	color: #343a40;
+}
+
 .auth-body .fieldWrapper {
 	margin: 5px;
 }

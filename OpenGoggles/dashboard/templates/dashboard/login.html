@@ -20,7 +20,7 @@
 		<div class="auth">
 			<div class="auth-header"><h1>{{ 'Login'|upper }}</h1></div>
 			<div class="auth-body">
-				<label class="error">{{ error_message }}</label>
+				<label class="error">{{ message }}</label>
 				<form action="{% url 'dashboard:login' %}" method="post">
 					{% csrf_token %}
 					{% for field in form %}
@@ -34,8 +34,11 @@
 					<!-- Remember Me-->
 					<div class="fieldWrapper">
 						<input type="checkbox" name="remember_me" value="1"><label for="remember_me">Remember Me</label>
-					</div>
+					</div>					
 					<button type="submit" class="btn btn-primary">Login</button>
+					<div  class="auth-link">
+						<a href="{% url "dashboard:register" %}">Don't have an account?</a>
+					</div>
 				</form>
 			</div>
 		</div>
