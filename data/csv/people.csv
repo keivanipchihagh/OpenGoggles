@@ -1,995 +1,1007 @@
-id,full_name,is_married,email,nationality,birth_date
-0,Tim Robbins,0,,American,
-1,Morgan Freeman,0,,American,
-2,Bob Gunton,1,,American,
-3,Marlon Brando,0,,Canadian,
-4,Al Pacino,1,,Canadian,
-5,James Caan,0,,Canadian,
-6,Al Pacino,0,,American,
-7,Robert De Niro,0,,Canadian,
-8,Robert Duvall,0,,American,
-9,Christian Bale,1,,American,
-10,Heath Ledger,1,,Canadian,
-11,Aaron Eckhart,1,,Canadian,
-12,Henry Fonda,0,,Canadian,
-13,Lee J. Cobb,1,,American,
-14,Martin Balsam,0,,Canadian,
-15,Liam Neeson,1,,Canadian,
-16,Ralph Fiennes,0,,Canadian,
-17,Ben Kingsley,0,,American,
-18,Elijah Wood,0,,Canadian,
-19,Viggo Mortensen,1,,Canadian,
-20,Ian McKellen,1,,American,
-21,John Travolta,1,,Canadian,
-22,Uma Thurman,0,,American,
-23,Samuel L. Jackson,0,,Canadian,
-24,Clint Eastwood,1,,Canadian,
-25,Eli Wallach,1,,American,
-26,Lee Van Cleef,0,,Canadian,
-27,Brad Pitt,1,,Canadian,
-28,Edward Norton,0,,Canadian,
-29,Meat Loaf,0,,Canadian,
-30,Elijah Wood,1,,Canadian,
-31,Ian McKellen,0,,American,
-32,Orlando Bloom,0,,Canadian,
-33,Tom Hanks,1,,Canadian,
-34,Robin Wright,1,,American,
-35,Gary Sinise,0,,Canadian,
-36,Mark Hamill,0,,Canadian,
-37,Harrison Ford,0,,Canadian,
-38,Carrie Fisher,1,,American,
-39,Leonardo DiCaprio,0,,American,
-40,Joseph Gordon-Levitt,0,,American,
-41,Elliot Page,0,,Canadian,
-42,Elijah Wood,1,,Canadian,
-43,Ian McKellen,0,,Canadian,
-44,Viggo Mortensen,1,,American,
-45,Robert Downey Jr.,1,,Canadian,
-46,Chris Evans,1,,Canadian,
-47,Mark Ruffalo,1,,American,
-48,Jack Nicholson,0,,American,
-49,Louise Fletcher,0,,American,
-50,Michael Berryman,1,,Canadian,
-51,Robert De Niro,0,,Canadian,
-52,Ray Liotta,0,,American,
-53,Joe Pesci,1,,American,
-54,Keanu Reeves,1,,Canadian,
-55,Laurence Fishburne,0,,American,
-56,Carrie-Anne Moss,1,,American,
-57,Toshirô Mifune,1,,Canadian,
-58,Takashi Shimura,1,,Canadian,
-59,Keiko Tsushima,1,,American,
-60,Morgan Freeman,0,,American,
-61,Brad Pitt,1,,American,
-62,Kevin Spacey,1,,American,
-63,Alexandre Rodrigues,0,,Canadian,
-64,Leandro Firmino,0,,Canadian,
-65,Matheus Nachtergaele,0,,Canadian,
-66,Mark Hamill,1,,American,
-67,Harrison Ford,0,,Canadian,
-68,Carrie Fisher,1,,Canadian,
-69,Jodie Foster,0,,Canadian,
-70,Anthony Hopkins,1,,American,
-71,Lawrence A. Bonney,0,,American,
-72,James Stewart,1,,American,
-73,Donna Reed,1,,Canadian,
-74,Lionel Barrymore,1,,American,
-75,Abijeet Duddala,0,,American,
-76,Kaushik,0,,American,
-77,Sudhakar Komakula,0,,American,
-78,Daveigh Chase,1,,Canadian,
-79,Suzanne Pleshette,0,,Canadian,
-80,Miyu Irino,0,,American,
-81,Tom Hanks,1,,American,
-82,Matt Damon,0,,Canadian,
-83,Tom Sizemore,0,,Canadian,
-84,Kevin Spacey,0,,Canadian,
-85,Gabriel Byrne,1,,Canadian,
-86,Chazz Palminteri,1,,Canadian,
-87,Jean Reno,1,,Canadian,
-88,Gary Oldman,0,,American,
-89,Natalie Portman,1,,Canadian,
-90,Tom Hanks,1,,American,
-91,Michael Clarke Duncan,1,,American,
-92,David Morse,0,,American,
-93,Matthew McConaughey,0,,American,
-94,Anne Hathaway,1,,American,
-95,Jessica Chastain,1,,American,
-96,Anthony Perkins,0,,American,
-97,Janet Leigh,0,,American,
-98,Vera Miles,1,,American,
-99,Edward Norton,0,,Canadian,
-100,Edward Furlong,0,,American,
-101,Beverly D'Angelo,1,,American,
-102,Charles Chaplin,0,,Canadian,
-103,Virginia Cherrill,0,,American,
-104,Florence Lee,1,,American,
-105,Humphrey Bogart,1,,Canadian,
-106,Ingrid Bergman,1,,American,
-107,Paul Henreid,0,,American,
-108,Henry Fonda,0,,Canadian,
-109,Charles Bronson,0,,American,
-110,Claudia Cardinale,1,,Canadian,
-111,Adrien Brody,1,,Canadian,
-112,Thomas Kretschmann,1,,American,
-113,Frank Finlay,1,,Canadian,
-114,Charles Chaplin,1,,Canadian,
-115,Paulette Goddard,1,,American,
-116,Henry Bergman,0,,Canadian,
-117,François Cluzet,1,,Canadian,
-118,Omar Sy,1,,American,
-119,Anne Le Ny,0,,American,
-120,Leonardo DiCaprio,1,,American,
-121,Matt Damon,1,,Canadian,
-122,Jack Nicholson,0,,American,
-123,Michael J. Fox,0,,Canadian,
-124,Christopher Lloyd,1,,American,
-125,Lea Thompson,1,,American,
-126,Arnold Schwarzenegger,1,,Canadian,
-127,Linda Hamilton,0,,Canadian,
-128,Edward Furlong,0,,Canadian,
-129,Miles Teller,0,,American,
-130,J.K. Simmons,1,,American,
-131,Melissa Benoist,1,,American,
-132,Matthew Broderick,1,,Canadian,
-133,Jeremy Irons,0,,American,
-134,James Earl Jones,1,,Canadian,
-135,James Stewart,1,,American,
-136,Grace Kelly,1,,Canadian,
-137,Wendell Corey,0,,American,
-138,Russell Crowe,0,,Canadian,
-139,Joaquin Phoenix,0,,American,
-140,Connie Nielsen,1,,Canadian,
-141,Harrison Ford,0,,American,
-142,Karen Allen,0,,American,
-143,Paul Freeman,1,,American,
-144,Christian Bale,1,,American,
-145,Hugh Jackman,0,,American,
-146,Scarlett Johansson,1,,American,
-147,Martin Sheen,1,,American,
-148,Marlon Brando,1,,American,
-149,Robert Duvall,1,,Canadian,
-150,Guy Pearce,0,,Canadian,
-151,Carrie-Anne Moss,1,,American,
-152,Joe Pantoliano,0,,Canadian,
-153,Sigourney Weaver,1,,American,
-154,Tom Skerritt,0,,Canadian,
-155,John Hurt,0,,Canadian,
-156,Yasunori Danta,0,,American,
-157,Mayuko Fukuda,1,,American,
-158,Mansaku Fuwa,1,,American,
-159,Shota Horie,0,,Canadian,
-160,Shameik Moore,0,,Canadian,
-161,Jake Johnson,0,,American,
-162,Hailee Steinfeld,0,,Canadian,
-163,Philippe Noiret,1,,American,
-164,Enzo Cannavale,1,,American,
-165,Antonella Attili,1,,Canadian,
-166,Charles Chaplin,1,,American,
-167,Paulette Goddard,1,,American,
-168,Jack Oakie,1,,American,
-169,William Holden,1,,Canadian,
-170,Gloria Swanson,1,,American,
-171,Erich von Stroheim,0,,American,
-172,Ulrich Mühe,1,,Canadian,
-173,Martina Gedeck,1,,American,
-174,Sebastian Koch,1,,American,
-175,Peter Sellers,0,,Canadian,
-176,George C. Scott,0,,American,
-177,Sterling Hayden,1,,Canadian,
-178,Robert Downey Jr.,1,,Canadian,
-179,Chris Hemsworth,0,,Canadian,
-180,Mark Ruffalo,1,,American,
-181,Kirk Douglas,0,,Canadian,
-182,Ralph Meeker,0,,Canadian,
-183,Adolphe Menjou,0,,American,
-184,Jamie Foxx,0,,Canadian,
-185,Christoph Waltz,0,,Canadian,
-186,Leonardo DiCaprio,0,,American,
-187,Jack Nicholson,1,,Canadian,
-188,Shelley Duvall,0,,Canadian,
-189,Danny Lloyd,1,,American,
-190,Ben Burtt,1,,Canadian,
-191,Elissa Knight,1,,Canadian,
-192,Jeff Garlin,0,,Canadian,
-193,Stephen Alpert,0,,Canadian,
-194,Melinda Froelich,1,,Canadian,
-195,Hayao Miyazaki,0,,Canadian,
-196,Todd Olsson,1,,American,
-197,Tyrone Power,1,,American,
-198,Marlene Dietrich,1,,Canadian,
-199,Charles Laughton,0,,American,
-200,Sigourney Weaver,1,,Canadian,
-201,Michael Biehn,0,,Canadian,
-202,Carrie Henn,1,,Canadian,
-203,Christian Bale,1,,American,
-204,Tom Hardy,0,,Canadian,
-205,Anne Hathaway,1,,American,
-206,Kevin Spacey,1,,American,
-207,Annette Bening,1,,Canadian,
-208,Thora Birch,1,,American,
-209,Robert De Niro,1,,Canadian,
-210,James Woods,0,,Canadian,
-211,Elizabeth McGovern,1,,American,
-212,Anthony Gonzalez,0,,Canadian,
-213,Gael García Bernal,0,,Canadian,
-214,Benjamin Bratt,0,,Canadian,
-215,Jürgen Prochnow,1,,American,
-216,Herbert Grönemeyer,1,,Canadian,
-217,Klaus Wennemann,0,,Canadian,
-218,Orson Welles,1,,Canadian,
-219,Joseph Cotten,0,,Canadian,
-220,Dorothy Comingore,0,,American,
-221,Mel Gibson,1,,American,
-222,Sophie Marceau,0,,American,
-223,Patrick McGoohan,1,,American,
-224,James Stewart,1,,American,
-225,Kim Novak,0,,American,
-226,Barbara Bel Geddes,0,,American,
-227,Cary Grant,1,,American,
-228,Eva Marie Saint,0,,Canadian,
-229,James Mason,0,,American,
-230,Harvey Keitel,1,,Canadian,
-231,Tim Roth,0,,Canadian,
-232,Michael Madsen,1,,American,
-233,Armie Hammer,0,,American,
-234,Timothée Chalamet,1,,American,
-235,Michael Stuhlbarg,1,,Canadian,
-236,Mark Hamill,0,,American,
-237,Harrison Ford,0,,Canadian,
-238,Carrie Fisher,0,,American,
-239,Peter Lorre,1,,American,
-240,Ellen Widmann,0,,American,
-241,Inge Landgut,1,,Canadian,
-242,F. Murray Abraham,0,,Canadian,
-243,Tom Hulce,1,,American,
-244,Elizabeth Berridge,0,,American,
-245,Ellen Burstyn,1,,American,
-246,Jared Leto,1,,Canadian,
-247,Jennifer Connelly,0,,American,
-248,Aamir Khan,1,,American,
-249,Sakshi Tanwar,1,,American,
-250,Fatima Sana Shaikh,1,,Canadian,
-251,Aamir Khan,0,,Canadian,
-252,Madhavan,0,,Canadian,
-253,Mona Singh,1,,American,
-254,Keir Dullea,1,,Canadian,
-255,Gary Lockwood,1,,Canadian,
-256,William Sylvester,0,,American,
-257,Tom Hanks,0,,American,
-258,Tim Allen,0,,Canadian,
-259,Don Rickles,0,,American,
-260,Darsheel Safary,1,,American,
-261,Aamir Khan,1,,Canadian,
-262,Tisca Chopra,0,,Canadian,
-263,Jim Carrey,1,,American,
-264,Kate Winslet,0,,American,
-265,Tom Wilkinson,0,,Canadian,
-266,Peter O'Toole,0,,Canadian,
-267,Alec Guinness,1,,American,
-268,Anthony Quinn,0,,Canadian,
-269,Malcolm McDowell,0,,Canadian,
-270,Patrick Magee,1,,American,
-271,Michael Bates,0,,Canadian,
-272,Gene Kelly,0,,American,
-273,Donald O'Connor,0,,American,
-274,Debbie Reynolds,0,,Canadian,
-275,Audrey Tautou,1,,American,
-276,Mathieu Kassovitz,0,,Canadian,
-277,Rufus,1,,American,
-278,Fred MacMurray,0,,Canadian,
-279,Barbara Stanwyck,1,,American,
-280,Edward G. Robinson,0,,American,
-281,Brad Pitt,1,,American,
-282,Diane Kruger,0,,American,
-283,Eli Roth,1,,American,
-284,Robert De Niro,0,,Canadian,
-285,Jodie Foster,0,,Canadian,
-286,Cybill Shepherd,0,,Canadian,
-287,Matthew Modine,1,,American,
-288,R. Lee Ermey,1,,American,
-289,Vincent D'Onofrio,1,,Canadian,
-290,Gregory Peck,0,,American,
-291,John Megna,1,,Canadian,
-292,Frank Overton,1,,Canadian,
-293,Lamberto Maggiorani,0,,Canadian,
-294,Enzo Staiola,1,,American,
-295,Lianella Carell,0,,American,
-296,Robin Williams,0,,American,
-297,Matt Damon,1,,Canadian,
-298,Ben Affleck,1,,American,
-299,Charles Chaplin,0,,American,
-300,Edna Purviance,0,,American,
-301,Jackie Coogan,1,,American,
-302,Paul Newman,0,,Canadian,
-303,Robert Redford,1,,Canadian,
-304,Robert Shaw,0,,Canadian,
-305,Mads Mikkelsen,0,,American,
-306,Thomas Bo Larsen,1,,Canadian,
-307,Annika Wedderkopp,1,,American,
-308,Tom Hanks,0,,Canadian,
-309,Tim Allen,0,,Canadian,
-310,Joan Cusack,1,,American,
-311,Jason Statham,1,,Canadian,
-312,Brad Pitt,0,,American,
-313,Stephen Graham,0,,American,
-314,Al Pacino,1,,Canadian,
-315,Michelle Pfeiffer,0,,American,
-316,Steven Bauer,0,,American,
-317,John Kirk,0,,American,
-318,Jack Lemmon,0,,Canadian,
-319,Shirley MacLaine,0,,Canadian,
-320,Fred MacMurray,0,,Canadian,
-321,Brigitte Helm,1,,American,
-322,Alfred Abel,1,,Canadian,
-323,Gustav Fröhlich,0,,Canadian,
-324,Graham Chapman,0,,American,
-325,John Cleese,1,,American,
-326,Eric Idle,1,,Canadian,
-327,Kevin Spacey,0,,American,
-328,Russell Crowe,0,,American,
-329,Guy Pearce,1,,American,
-330,Michelle Sun,0,,American,
-331,Zhen Yao,0,,Canadian,
-332,Carlee Soeder,1,,American,
-333,Harrison Ford,0,,Canadian,
-334,Sean Connery,1,,American,
-335,Alison Doody,0,,American,
-336,Ed Asner,1,,American,
-337,Jordan Nagai,1,,American,
-338,John Ratzenberger,0,,American,
-339,Omenosuke Ichikawa,1,,American,
-340,Setsuko Kai,0,,American,
-341,Yoshiko Kashiwa,1,,Canadian,
-342,Bette Davis,0,,Canadian,
-343,Anne Baxter,0,,Canadian,
-344,George Sanders,0,,Canadian,
-345,Christian Bale,0,,Canadian,
-346,Michael Caine,1,,American,
-347,Ken Watanabe,0,,Canadian,
-348,Marilyn Monroe,1,,American,
-349,Tony Curtis,0,,American,
-350,Jack Lemmon,1,,Canadian,
-351,Mari Devon,1,,Canadian,
-352,Hiroaki Hirata,0,,American,
-353,Neil Kaplan,0,,Canadian,
-354,Bruno Ganz,0,,American,
-355,Alexandra Maria Lara,0,,American,
-356,Ulrich Matthes,1,,Canadian,
-357,Clint Eastwood,0,,Canadian,
-358,Gene Hackman,1,,American,
-359,Morgan Freeman,1,,Canadian,
-360,Bruce Willis,0,,American,
-361,Alan Rickman,0,,American,
-362,Bonnie Bedelia,1,,American,
-363,Al Pacino,0,,Canadian,
-364,Robert De Niro,0,,American,
-365,Val Kilmer,1,,Canadian,
-366,Humphrey Bogart,1,,American,
-367,Walter Huston,0,,American,
-368,Tim Holt,1,,Canadian,
-369,Lubna Azabal,0,,Canadian,
-370,Mélissa Désormeaux-Poulin,0,,American,
-371,Maxim Gaudette,0,,Canadian,
-372,Takashi Shimura,1,,Canadian,
-373,Nobuo Kaneko,0,,Canadian,
-374,Shin'ichi Himori,1,,American,
-375,Viggo Mortensen,1,,Canadian,
-376,Mahershala Ali,0,,Canadian,
-377,Linda Cardellini,0,,Canadian,
-378,Robert De Niro,0,,American,
-379,Cathy Moriarty,0,,Canadian,
-380,Joe Pesci,1,,Canadian,
-381,Steve McQueen,0,,American,
-382,James Garner,0,,Canadian,
-383,Richard Attenborough,1,,Canadian,
-384,Kavitha Chari,0,,Canadian,
-385,Kishore Kumar Inapanuri,0,,Canadian,
-386,Jack Nicholson,0,,Canadian,
-387,Faye Dunaway,0,,Canadian,
-388,John Huston,0,,American,
-389,Hitoshi Takagi,0,,American,
-390,Noriko Hidaka,1,,American,
-391,Chika Sakamoto,1,,Canadian,
-392,Orson Welles,0,,American,
-393,Joseph Cotten,0,,American,
-394,Alida Valli,0,,Canadian,
-395,Chieko Baishô,1,,Canadian,
-396,Takuya Kimura,1,,American,
-397,Tatsuya Gashûin,0,,American,
-398,Eser Sariyar,1,,American,
-399,Çetin Tekindor,1,,American,
-400,Fikret Kuskan,1,,American,
-401,Tatsuya Nakadai,0,,Canadian,
-402,Akira Terao,0,,American,
-403,Jinpachi Nezu,0,,Canadian,
-404,Spencer Tracy,0,,American,
-405,Burt Lancaster,1,,American,
-406,Richard Widmark,0,,Canadian,
-407,Ricardo Darín,0,,Canadian,
-408,Soledad Villamil,1,,Canadian,
-409,Pablo Rago,1,,American,
-410,Charles Chaplin,0,,Canadian,
-411,Mack Swain,1,,American,
-412,Tom Murray,0,,Canadian,
-413,Russell Crowe,0,,Canadian,
-414,Ed Harris,1,,American,
-415,Jennifer Connelly,1,,Canadian,
-416,William Holden,0,,Canadian,
-417,Alec Guinness,1,,Canadian,
-418,Jack Hawkins,0,,American,
-419,Jason Flemyng,0,,Canadian,
-420,Dexter Fletcher,1,,Canadian,
-421,Nick Moran,0,,Canadian,
-422,Max von Sydow,0,,American,
-423,Gunnar Björnstrand,0,,Canadian,
-424,Bengt Ekerot,0,,American,
-425,Frances McDormand,1,,American,
-426,Woody Harrelson,0,,American,
-427,Sam Rockwell,1,,Canadian,
-428,Marlon Brando,0,,Canadian,
-429,Karl Malden,0,,American,
-430,Lee J. Cobb,1,,American,
-431,Leonardo DiCaprio,1,,American,
-432,Jonah Hill,0,,American,
-433,Margot Robbie,1,,Canadian,
-434,Anthony Hopkins,0,,American,
-435,John Hurt,1,,American,
-436,Anne Bancroft,0,,American,
-437,Amy Poehler,0,,Canadian,
-438,Bill Hader,0,,American,
-439,Lewis Black,1,,American,
-440,Hugo Weaving,1,,American,
-441,Natalie Portman,0,,American,
-442,Rupert Graves,0,,Canadian,
-443,James Stewart,0,,American,
-444,Jean Arthur,0,,Canadian,
-445,Claude Rains,0,,American,
-446,Brie Larson,1,,American,
-447,Jacob Tremblay,1,,Canadian,
-448,Sean Bridgers,0,,American,
-449,Tom Hardy,1,,American,
-450,Nick Nolte,0,,Canadian,
-451,Joel Edgerton,0,,American,
-452,Harrison Ford,1,,American,
-453,Rutger Hauer,1,,Canadian,
-454,Sean Young,1,,American,
-455,Ray Milland,0,,American,
-456,Grace Kelly,1,,Canadian,
-457,Robert Cummings,0,,Canadian,
-458,Tommy Lee Jones,0,,American,
-459,Javier Bardem,0,,Canadian,
-460,Josh Brolin,0,,American,
-461,Daniel Day-Lewis,1,,Canadian,
-462,Paul Dano,1,,Canadian,
-463,Ciarán Hinds,1,,Canadian,
-464,Ayushmann Khurrana,1,,American,
-465,Tabu,0,,Canadian,
-466,Radhika Apte,0,,American,
-467,Victor Sjöström,0,,Canadian,
-468,Bibi Andersson,0,,Canadian,
-469,Ingrid Thulin,0,,American,
-470,Bruce Willis,0,,Canadian,
-471,Haley Joel Osment,1,,American,
-472,Toni Collette,0,,American,
-473,Buster Keaton,1,,Canadian,
-474,Marion Mack,1,,American,
-475,Glen Cavender,0,,Canadian,
-476,Ewan McGregor,0,,Canadian,
-477,Ewen Bremner,1,,Canadian,
-478,Jonny Lee Miller,0,,Canadian,
-479,Clark Gable,0,,Canadian,
-480,Vivien Leigh,1,,American,
-481,Thomas Mitchell,0,,American,
-482,Kurt Russell,0,,American,
-483,Wilford Brimley,0,,American,
-484,Keith David,1,,American,
-485,William H. Macy,1,,Canadian,
-486,Frances McDormand,0,,Canadian,
-487,Steve Buscemi,1,,Canadian,
-488,Bumpen,0,,American,
-489,Clint Eastwood,1,,American,
-490,Bee Vang,0,,American,
-491,Christopher Carley,1,,American,
-492,Albert Brooks,0,,Canadian,
-493,Ellen DeGeneres,1,,Canadian,
-494,Alexander Gould,1,,Canadian,
-495,Robert De Niro,1,,Canadian,
-496,Christopher Walken,1,,American,
-497,John Cazale,1,,Canadian,
-498,Leonardo DiCaprio,1,,Canadian,
-499,Emily Mortimer,1,,American,
-500,Mark Ruffalo,0,,Canadian,
-501,Jeff Bridges,1,,American,
-502,John Goodman,0,,Canadian,
-503,Julianne Moore,0,,Canadian,
-504,Uma Thurman,0,,American,
-505,David Carradine,0,,American,
-506,Daryl Hannah,1,,American,
-507,Buster Keaton,1,,Canadian,
-508,Kathryn McGuire,0,,Canadian,
-509,Joe Keaton,1,,American,
-510,Paul Newman,1,,Canadian,
-511,George Kennedy,1,,American,
-512,Strother Martin,0,,American,
-513,Chishû Ryû,0,,Canadian,
-514,Chieko Higashiyama,1,,Canadian,
-515,Sô Yamamura,0,,Canadian,
-516,Toni Collette,0,,Canadian,
-517,Philip Seymour Hoffman,0,,American,
-518,Eric Bana,1,,Canadian,
-519,Laurence Olivier,0,,American,
-520,Joan Fontaine,1,,Canadian,
-521,George Sanders,0,,Canadian,
-522,Andrew Garfield,1,,Canadian,
-523,Sam Worthington,0,,Canadian,
-524,Luke Bracey,1,,Canadian,
-525,Sam Neill,1,,Canadian,
-526,Laura Dern,0,,Canadian,
-527,Jeff Goldblum,0,,American,
-528,Jay Baruchel,1,,American,
-529,Gerard Butler,1,,Canadian,
-530,Christopher Mintz-Plasse,1,,Canadian,
-531,Ben Affleck,0,,American,
-532,Rosamund Pike,1,,Canadian,
-533,Neil Patrick Harris,1,,American,
-534,Jim Carrey,1,,American,
-535,Ed Harris,0,,American,
-536,Laura Linney,1,,American,
-537,Samantha Armytage,0,,American,
-538,Prue MacSween,0,,Canadian,
-539,Chris Smith,0,,American,
-540,Alisa Freyndlikh,0,,American,
-541,Aleksandr Kaydanovskiy,1,,American,
-542,Anatoliy Solonitsyn,0,,Canadian,
-543,Ralph Fiennes,1,,American,
-544,F. Murray Abraham,0,,Canadian,
-545,Mathieu Amalric,0,,Canadian,
-546,Daniel Day-Lewis,0,,American,
-547,Pete Postlethwaite,0,,American,
-548,Alison Crosbie,1,,American,
-549,Wil Wheaton,0,,American,
-550,River Phoenix,0,,American,
-551,Corey Feldman,0,,Canadian,
-552,Emile Hirsch,0,,American,
-553,Vince Vaughn,1,,American,
-554,Catherine Keener,0,,Canadian,
-555,Clark Gable,1,,Canadian,
-556,Claudette Colbert,1,,American,
-557,Walter Connolly,1,,American,
-558,Charlie Sheen,1,,American,
-559,Tom Berenger,0,,American,
-560,Willem Dafoe,1,,Canadian,
-561,Kang-ho Song,1,,American,
-562,Kim Sang-kyung,1,,American,
-563,Roe-ha Kim,0,,Canadian,
-564,Faye Dunaway,0,,American,
-565,William Holden,1,,American,
-566,Peter Finch,1,,Canadian,
-567,Graham Chapman,1,,Canadian,
-568,John Cleese,1,,American,
-569,Michael Palin,1,,American,
-570,Charlton Heston,1,,Canadian,
-571,Jack Hawkins,0,,American,
-572,Stephen Boyd,1,,American,
-573,Bibi Andersson,0,,American,
-574,Liv Ullmann,1,,Canadian,
-575,Margaretha Krook,1,,Canadian,
-576,Chiwetel Ejiofor,0,,Canadian,
-577,Michael Kenneth Williams,1,,American,
-578,Michael Fassbender,1,,American,
-579,Hilary Swank,1,,Canadian,
-580,Clint Eastwood,1,,American,
-581,Morgan Freeman,0,,American,
-582,Don Cheadle,1,,Canadian,
-583,Sophie Okonedo,0,,Canadian,
-584,Joaquin Phoenix,0,,Canadian,
-585,Ethan Hawke,0,,American,
-586,Julie Delpy,1,,Canadian,
-587,Andrea Eckert,1,,Canadian,
-588,Megumi Ogata,1,,Canadian,
-589,Megumi Hayashibara,0,,American,
-590,Yûko Miyamura,1,,American,
-591,Anna Magnani,1,,American,
-592,Amedeo Nazzari,1,,American,
-593,Carla Del Poggio,0,,Canadian,
-594,Hugh Jackman,0,,Canadian,
-595,Jake Gyllenhaal,0,,American,
-596,Viola Davis,0,,American,
-597,Tom Hardy,1,,Canadian,
-598,Charlize Theron,0,,American,
-599,Nicholas Hoult,1,,American,
-600,Daniel Brühl,0,,American,
-601,Chris Hemsworth,0,,Canadian,
-602,Olivia Wilde,0,,Canadian,
-603,Richard Gere,1,,Canadian,
-604,Joan Allen,1,,American,
-605,Cary-Hiroyuki Tagawa,1,,American,
-606,Hugh Jackman,1,,Canadian,
-607,Patrick Stewart,0,,American,
-608,Dafne Keen,0,,American,
-609,Justin Chang,1,,American,
-610,Jean-Pierre Léaud,1,,Canadian,
-611,Albert Rémy,0,,American,
-612,Claire Maurier,1,,Canadian,
-613,Leonardo DiCaprio,1,,Canadian,
-614,Tom Hanks,1,,American,
-615,Christopher Walken,0,,American,
-616,Mark Ruffalo,0,,Canadian,
-617,Michael Keaton,0,,American,
-618,Rachel McAdams,1,,Canadian,
-619,Emilio Echevarría,1,,Canadian,
-620,Gael García Bernal,1,,Canadian,
-621,Goya Toledo,0,,Canadian,
-622,Daniel Radcliffe,1,,Canadian,
-623,Emma Watson,1,,Canadian,
-624,Rupert Grint,0,,Canadian,
-625,Sumi Shimamoto,0,,American,
-626,Mahito Tsujimura,1,,Canadian,
-627,Hisako Kyôda,1,,American,
-628,Cary Elwes,0,,Canadian,
-629,Mandy Patinkin,0,,American,
-630,Robin Wright,1,,Canadian,
-631,Sylvester Stallone,0,,American,
-632,Talia Shire,1,,American,
-633,Burt Young,1,,Canadian,
-634,Ryan O'Neal,1,,Canadian,
-635,Marisa Berenson,0,,Canadian,
-636,Patrick Magee,0,,Canadian,
-637,Paul Newman,1,,Canadian,
-638,Robert Redford,0,,Canadian,
-639,Katharine Ross,0,,American,
-640,Aamir Khan,1,,American,
-641,Soha Ali Khan,0,,Canadian,
-642,Siddharth,0,,Canadian,
-643,Billy Crystal,0,,Canadian,
-644,John Goodman,1,,Canadian,
-645,Mary Gibbs,0,,American,
-646,Robin Williams,1,,American,
-647,Robert Sean Leonard,0,,Canadian,
-648,Ethan Hawke,0,,American,
-649,Henry Fonda,1,,American,
-650,Jane Darwell,0,,American,
-651,John Carradine,0,,American,
-652,Humphrey Bogart,1,,Canadian,
-653,Mary Astor,0,,Canadian,
-654,Gladys George,0,,Canadian,
-655,Arnold Schwarzenegger,0,,American,
-656,Linda Hamilton,0,,Canadian,
-657,Michael Biehn,1,,Canadian,
-658,Gong Li,0,,American,
-659,Jingwu Ma,1,,Canadian,
-660,Saifei He,1,,Canadian,
-661,Kim Min-hee,0,,American,
-662,Ha Jung-woo,0,,American,
-663,Cho Jin-woong,0,,Canadian,
-664,Ben Kingsley,0,,Canadian,
-665,John Gielgud,0,,American,
-666,Rohini Hattangadi,1,,Canadian,
-667,Vincent Cassel,1,,American,
-668,Hubert Koundé,0,,American,
-669,Saïd Taghmaoui,1,,Canadian,
-670,Jake Gyllenhaal,0,,American,
-671,Jena Malone,1,,American,
-672,Mary McDonnell,0,,Canadian,
-673,Tony Chiu-Wai Leung,1,,American,
-674,Maggie Cheung,0,,Canadian,
-675,Siu Ping-Lam,0,,Canadian,
-676,Sharon Stone,0,,Canadian,
-677,Isabelle Adjani,0,,Canadian,
-678,Chazz Palminteri,1,,Canadian,
-679,Bill Murray,1,,American,
-680,Andie MacDowell,0,,Canadian,
-681,Chris Elliott,1,,American,
-682,Emma Stone,1,,American,
-683,Viola Davis,0,,American,
-684,Octavia Spencer,0,,American,
-685,Judy Garland,0,,Canadian,
-686,Frank Morgan,1,,American,
-687,Ray Bolger,0,,American,
-688,Roy Scheider,0,,Canadian,
-689,Robert Shaw,1,,American,
-690,Richard Dreyfuss,1,,American,
-691,Chris Pratt,1,,Canadian,
-692,Vin Diesel,0,,American,
-693,Bradley Cooper,1,,American,
-694,Ethan Hawke,1,,Canadian,
-695,Julie Delpy,0,,American,
-696,Vernon Dobtcheff,1,,American,
-697,Mayumi Tanaka,0,,Canadian,
-698,Keiko Yokozawa,1,,Canadian,
-699,Kotoe Hatsui,0,,American,
-700,Harry Dean Stanton,1,,Canadian,
-701,Nastassja Kinski,0,,American,
-702,Dean Stockwell,1,,American,
-703,Johnny Depp,1,,Canadian,
-704,Geoffrey Rush,1,,American,
-705,Orlando Bloom,1,,Canadian,
-706,Paige O'Hara,0,,Canadian,
-707,Robby Benson,0,,Canadian,
-708,Jesse Corti,1,,American,
-709,Ellen Burstyn,0,,Canadian,
-710,Max von Sydow,0,,Canadian,
-711,Linda Blair,0,,Canadian,
-712,Irène Jacob,0,,Canadian,
-713,Jean-Louis Trintignant,0,,American,
-714,Frédérique Feder,1,,Canadian,
-715,Mitsuo Iwata,1,,American,
-716,Nozomu Sasaki,0,,American,
-717,Mami Koyama,1,,American,
-718,Manoj Bajpayee,0,,American,
-719,Richa Chadha,0,,American,
-720,Nawazuddin Siddiqui,1,,Canadian,
-721,Aamir Khan,0,,American,
-722,Anushka Sharma,0,,Canadian,
-723,Sanjay Dutt,0,,American,
-724,Frank Darabont,0,,Canadian,
-725,Francis Ford Coppola,1,,Canadian,
-726,Francis Ford Coppola,0,,American,
-727,Christopher Nolan,0,,Canadian,
-728,Sidney Lumet,0,,American,
-729,Steven Spielberg,0,,Canadian,
-730,Peter Jackson,0,,Canadian,
-731,Quentin Tarantino,0,,Canadian,
-732,Sergio Leone,1,,American,
-733,David Fincher,1,,American,
-734,Peter Jackson,0,,American,
-735,Robert Zemeckis,1,,American,
-736,Irvin Kershner,1,,Canadian,
-737,Christopher Nolan,1,,Canadian,
-738,Peter Jackson,0,,American,
-739,Anthony Russo,1,,Canadian,
-740,Joe Russo,1,,American,
-741,Milos Forman,0,,Canadian,
-742,Martin Scorsese,1,,American,
-743,Lana Wachowski,0,,American,
-744,Lilly Wachowski,1,,American,
-745,Akira Kurosawa,1,,American,
-746,David Fincher,1,,American,
-747,Fernando Meirelles,1,,American,
-748,Kátia Lund,1,,Canadian,
-749,George Lucas,0,,Canadian,
-750,Jonathan Demme,0,,Canadian,
-751,Frank Capra,1,,Canadian,
-752,Sekhar Kammula,0,,Canadian,
-753,Hayao Miyazaki,0,,Canadian,
-754,Steven Spielberg,0,,American,
-755,Bryan Singer,1,,American,
-756,Luc Besson,0,,American,
-757,Frank Darabont,0,,Canadian,
-758,Christopher Nolan,0,,American,
-759,Alfred Hitchcock,1,,American,
-760,Tony Kaye,1,,American,
-761,Charles Chaplin,0,,American,
-762,Michael Curtiz,1,,American,
-763,Sergio Leone,1,,Canadian,
-764,Roman Polanski,0,,Canadian,
-765,Charles Chaplin,1,,American,
-766,Olivier Nakache,0,,American,
-767,Éric Toledano,1,,Canadian,
-768,Martin Scorsese,1,,American,
-769,Robert Zemeckis,0,,American,
-770,James Cameron,0,,Canadian,
-771,Damien Chazelle,0,,American,
-772,Roger Allers,1,,American,
-773,Rob Minkoff,0,,Canadian,
-774,Alfred Hitchcock,0,,American,
-775,Ridley Scott,1,,American,
-776,Steven Spielberg,0,,American,
-777,Christopher Nolan,0,,Canadian,
-778,Francis Ford Coppola,1,,Canadian,
-779,Christopher Nolan,0,,Canadian,
-780,Ridley Scott,1,,Canadian,
-781,Tôya Satô,1,,Canadian,
-782,Bob Persichetti,1,,Canadian,
-783,Peter Ramsey,0,,Canadian,
-784,Rodney Rothman,1,,American,
-785,Giuseppe Tornatore,1,,American,
-786,Charles Chaplin,0,,Canadian,
-787,Billy Wilder,0,,American,
-788,Florian Henckel von Donnersmarck,0,,American,
-789,Stanley Kubrick,0,,Canadian,
-790,Anthony Russo,1,,American,
-791,Joe Russo,1,,Canadian,
-792,Stanley Kubrick,1,,Canadian,
-793,Quentin Tarantino,1,,Canadian,
-794,Stanley Kubrick,0,,Canadian,
-795,Andrew Stanton,0,,American,
-796,Toshiro Uratani,0,,Canadian,
-797,Billy Wilder,0,,Canadian,
-798,James Cameron,0,,American,
-799,Christopher Nolan,1,,Canadian,
-800,Sam Mendes,0,,Canadian,
-801,Sergio Leone,0,,American,
-802,Lee Unkrich,1,,Canadian,
-803,Adrian Molina,1,,Canadian,
-804,Wolfgang Petersen,0,,American,
-805,Orson Welles,1,,Canadian,
-806,Mel Gibson,0,,Canadian,
-807,Alfred Hitchcock,0,,American,
-808,Alfred Hitchcock,0,,American,
-809,Quentin Tarantino,0,,Canadian,
-810,Luca Guadagnino,0,,Canadian,
-811,Richard Marquand,1,,American,
-812,Fritz Lang,1,,American,
-813,Milos Forman,0,,Canadian,
-814,Darren Aronofsky,0,,Canadian,
-815,Nitesh Tiwari,1,,American,
-816,Rajkumar Hirani,1,,Canadian,
-817,Stanley Kubrick,1,,American,
-818,John Lasseter,0,,American,
-819,Aamir Khan,1,,Canadian,
-820,Amole Gupte,1,,American,
-821,Michel Gondry,1,,American,
-822,David Lean,1,,Canadian,
-823,Stanley Kubrick,1,,American,
-824,Stanley Donen,0,,American,
-825,Gene Kelly,1,,Canadian,
-826,Jean-Pierre Jeunet,1,,American,
-827,Billy Wilder,1,,American,
-828,Quentin Tarantino,0,,Canadian,
-829,Martin Scorsese,0,,American,
-830,Stanley Kubrick,0,,American,
-831,Robert Mulligan,1,,Canadian,
-832,Vittorio De Sica,0,,American,
-833,Gus Van Sant,1,,American,
-834,Charles Chaplin,0,,American,
-835,George Roy Hill,1,,Canadian,
-836,Thomas Vinterberg,1,,American,
-837,Lee Unkrich,1,,American,
-838,Guy Ritchie,1,,American,
-839,Brian De Palma,0,,American,
-840,Michael Arick,1,,American,
-841,Billy Wilder,0,,American,
-842,Fritz Lang,1,,Canadian,
-843,Terry Gilliam,0,,American,
-844,Terry Jones,0,,Canadian,
-845,Curtis Hanson,0,,American,
-846,Yalan Hu,1,,Canadian,
-847,Steven Spielberg,0,,Canadian,
-848,Pete Docter,0,,American,
-849,Bob Peterson,1,,Canadian,
-850,Shinzo Yoshida,0,,American,
-851,Joseph L. Mankiewicz,0,,American,
-852,Christopher Nolan,1,,Canadian,
-853,Billy Wilder,0,,American,
-854,Oliver Hirschbiegel,0,,Canadian,
-855,Clint Eastwood,1,,Canadian,
-856,John McTiernan,1,,Canadian,
-857,Michael Mann,1,,American,
-858,John Huston,0,,American,
-859,Denis Villeneuve,0,,Canadian,
-860,Akira Kurosawa,0,,Canadian,
-861,Peter Farrelly,1,,American,
-862,Martin Scorsese,0,,Canadian,
-863,John Sturges,1,,American,
-864,Kishore Kumar Inapanuri,1,,American,
-865,Javier Soto,1,,Canadian,
-866,Roman Polanski,0,,Canadian,
-867,Hayao Miyazaki,0,,Canadian,
-868,Carol Reed,0,,Canadian,
-869,Hayao Miyazaki,0,,Canadian,
-870,Cagan Irmak,1,,American,
-871,Akira Kurosawa,1,,American,
-872,Stanley Kramer,0,,American,
-873,Juan José Campanella,1,,Canadian,
-874,Charles Chaplin,1,,American,
-875,Ron Howard,1,,Canadian,
-876,David Lean,1,,American,
-877,Guy Ritchie,0,,American,
-878,Ingmar Bergman,0,,Canadian,
-879,Martin McDonagh,0,,Canadian,
-880,Elia Kazan,0,,American,
-881,Martin Scorsese,1,,Canadian,
-882,David Lynch,1,,American,
-883,Pete Docter,1,,Canadian,
-884,Ronnie Del Carmen,1,,Canadian,
-885,James McTeigue,1,,Canadian,
-886,Frank Capra,0,,Canadian,
-887,Lenny Abrahamson,1,,American,
-888,Gavin O'Connor,0,,Canadian,
-889,Ridley Scott,0,,American,
-890,Alfred Hitchcock,0,,Canadian,
-891,Ethan Coen,0,,American,
-892,Joel Coen,0,,Canadian,
-893,Paul Thomas Anderson,0,,Canadian,
-894,Sriram Raghavan,0,,Canadian,
-895,Ingmar Bergman,0,,Canadian,
-896,M. Night Shyamalan,1,,American,
-897,Clyde Bruckman,1,,Canadian,
-898,Buster Keaton,0,,American,
-899,Danny Boyle,1,,Canadian,
-900,Victor Fleming,0,,Canadian,
-901,George Cukor,1,,Canadian,
-902,Sam Wood,1,,Canadian,
-903,John Carpenter,0,,Canadian,
-904,Joel Coen,1,,American,
-905,Ethan Coen,0,,Canadian,
-906,Nottapon Boonprakob,1,,Canadian,
-907,Clint Eastwood,1,,Canadian,
-908,Andrew Stanton,1,,Canadian,
-909,Lee Unkrich,0,,Canadian,
-910,Michael Cimino,0,,Canadian,
-911,Martin Scorsese,0,,Canadian,
-912,Joel Coen,0,,Canadian,
-913,Ethan Coen,0,,Canadian,
-914,Quentin Tarantino,1,,American,
-915,Buster Keaton,1,,Canadian,
-916,Stuart Rosenberg,1,,American,
-917,Yasujirô Ozu,0,,American,
-918,Adam Elliot,0,,American,
-919,Alfred Hitchcock,1,,Canadian,
-920,Mel Gibson,1,,American,
-921,Steven Spielberg,1,,American,
-922,Dean DeBlois,1,,Canadian,
-923,Chris Sanders,1,,American,
-924,David Fincher,1,,Canadian,
-925,Peter Weir,0,,Canadian,
-926,Andrei Tarkovsky,0,,Canadian,
-927,Wes Anderson,1,,American,
-928,Jim Sheridan,1,,American,
-929,Rob Reiner,1,,American,
-930,Sean Penn,0,,Canadian,
-931,Frank Capra,0,,Canadian,
-932,Oliver Stone,1,,Canadian,
-933,Bong Joon Ho,0,,American,
-934,Sidney Lumet,0,,Canadian,
-935,Terry Jones,1,,Canadian,
-936,William Wyler,0,,American,
-937,Ingmar Bergman,0,,American,
-938,Steve McQueen,0,,Canadian,
-939,Clint Eastwood,1,,Canadian,
-940,Terry George,1,,Canadian,
-941,Richard Linklater,0,,Canadian,
-942,Hideaki Anno,0,,American,
-943,Kazuya Tsurumaki,0,,American,
-944,Alberto Lattuada,1,,Canadian,
-945,Denis Villeneuve,0,,Canadian,
-946,George Miller,0,,American,
-947,Ron Howard,0,,American,
-948,Lasse Hallström,0,,Canadian,
-949,James Mangold,1,,American,
-950,Daniel Raim,1,,American,
-951,François Truffaut,1,,Canadian,
-952,Steven Spielberg,0,,American,
-953,Tom McCarthy,1,,American,
-954,Alejandro G. Iñárritu,0,,Canadian,
-955,David Yates,0,,American,
-956,Hayao Miyazaki,1,,American,
-957,Rob Reiner,1,,American,
-958,John G. Avildsen,1,,Canadian,
-959,Stanley Kubrick,1,,Canadian,
-960,George Roy Hill,1,,American,
-961,Rakeysh Omprakash Mehra,0,,Canadian,
-962,Pete Docter,1,,Canadian,
-963,David Silverman,0,,Canadian,
-964,Lee Unkrich,0,,Canadian,
-965,Peter Weir,0,,American,
-966,John Ford,1,,Canadian,
-967,John Huston,1,,American,
-968,James Cameron,0,,American,
-969,Yimou Zhang,0,,Canadian,
-970,Park Chan-Wook,1,,American,
-971,Richard Attenborough,1,,Canadian,
-972,Mathieu Kassovitz,1,,American,
-973,Richard Kelly,0,,Canadian,
-974,Kar-Wai Wong,1,,Canadian,
-975,Jeremiah S. Chechik,0,,American,
-976,Harold Ramis,0,,Canadian,
-977,Tate Taylor,1,,American,
-978,Victor Fleming,0,,American,
-979,George Cukor,1,,American,
-980,Mervyn LeRoy,0,,American,
-981,Steven Spielberg,1,,Canadian,
-982,James Gunn,1,,Canadian,
-983,Richard Linklater,1,,Canadian,
-984,Hayao Miyazaki,1,,Canadian,
-985,Wim Wenders,0,,American,
-986,Gore Verbinski,1,,American,
-987,Gary Trousdale,0,,Canadian,
-988,Kirk Wise,1,,American,
-989,William Friedkin,1,,Canadian,
-990,Krzysztof Kieslowski,0,,Canadian,
-991,Katsuhiro Ôtomo,1,,Canadian,
-992,Anurag Kashyap,0,,American,
-993,Rajkumar Hirani,1,,Canadian,
+id,first_name,last_name,is_married,email,nationality,birth_date
+0,Tim,Robbins,0,ZZJTJj@gmail.com,American,09/12/1985
+1,Morgan,Freeman,1,eIlicrufbD@gmail.com,Canadian,05/13/1996
+2,Bob,Gunton,0,KXrQcLziQp@gmail.com,American,12/23/2008
+3,Marlon,Brando,0,GAkeqwdJA@gmail.com,American,10/22/2006
+4,Al,Pacino,0,JLydNSq@gmail.com,American,04/22/2008
+5,James,Caan,0,aDQRAWVk@gmail.com,American,02/13/1981
+6,Al,Pacino,1,zHKkT@gmail.com,American,07/09/1997
+7,Robert,,1,fsaDg@gmail.com,American,01/29/1970
+8,Robert,Duvall,0,eLOmcup@gmail.com,American,05/16/2006
+9,Christian,Bale,0,YtmguZ@gmail.com,American,07/29/1989
+10,Heath,Ledger,0,VoKGEeiP@gmail.com,American,06/21/1978
+11,Aaron,Eckhart,1,nIJFQyz@gmail.com,Canadian,10/29/1985
+12,Henry,Fonda,0,FtwVZ@gmail.com,Canadian,08/18/1971
+13,Lee,,1,PzasnVJo@gmail.com,American,11/14/2000
+14,Martin,Balsam,0,ecmFUrRPdG@gmail.com,Canadian,06/05/1983
+15,Liam,Neeson,0,OSnEol@gmail.com,American,04/30/1986
+16,Ralph,Fiennes,0,hoAWGxrKkE@gmail.com,Canadian,04/09/2001
+17,Ben,Kingsley,0,KUZBbAgzg@gmail.com,American,04/07/1986
+18,Elijah,Wood,1,jARarS@gmail.com,American,01/23/2005
+19,Viggo,Mortensen,1,qkzXH@gmail.com,Canadian,04/27/2008
+20,Ian,McKellen,0,rIhGxQR@gmail.com,Canadian,05/09/1991
+21,John,Travolta,1,vFejQV@gmail.com,Canadian,11/11/1984
+22,Uma,Thurman,0,UXwGmPJK@gmail.com,Canadian,12/10/1977
+23,Samuel,,1,UTqIAlniyi@gmail.com,Canadian,04/12/1983
+24,Clint,Eastwood,0,UmVhiNK@gmail.com,Canadian,05/23/2002
+25,Eli,Wallach,1,YdtbfQb@gmail.com,Canadian,01/19/1991
+26,Lee,,0,TFllNBc@gmail.com,Canadian,04/24/2007
+27,Brad,Pitt,1,AqOCK@gmail.com,Canadian,01/07/2005
+28,Edward,Norton,1,eMieQq@gmail.com,Canadian,08/09/1995
+29,Meat,Loaf,0,qnDIPJL@gmail.com,Canadian,12/15/1995
+30,Elijah,Wood,0,UYNGHuBvmP@gmail.com,American,11/04/1998
+31,Ian,McKellen,1,kZVOwh@gmail.com,Canadian,07/28/1991
+32,Orlando,Bloom,0,XErKFNTy@gmail.com,American,03/29/2002
+33,Tom,Hanks,1,ZpzGv@gmail.com,Canadian,03/20/1986
+34,Robin,Wright,0,rmFGFRl@gmail.com,American,06/06/2000
+35,Gary,Sinise,1,jnTkjg@gmail.com,Canadian,02/28/1980
+36,Mark,Hamill,1,NjPBkd@gmail.com,Canadian,07/22/1974
+37,Harrison,Ford,1,afTDyOPFm@gmail.com,American,07/14/1995
+38,Carrie,Fisher,1,rMVstZ@gmail.com,American,03/01/2001
+39,Leonardo,DiCaprio,0,IZwkdS@gmail.com,Canadian,12/22/1975
+40,Joseph,Gordon-Levitt,1,OQeYf@gmail.com,American,02/07/1979
+41,Elliot,Page,1,OycTGNG@gmail.com,Canadian,07/22/1986
+42,Elijah,Wood,1,rAuAN@gmail.com,American,11/25/2006
+43,Ian,McKellen,1,PvJkDG@gmail.com,American,05/07/1991
+44,Viggo,Mortensen,0,qMvoViSrt@gmail.com,American,12/07/1973
+45,Robert,,1,RxVnGif@gmail.com,Canadian,12/03/2006
+46,Chris,Evans,1,vrtFKrmI@gmail.com,Canadian,07/27/1981
+47,Mark,Ruffalo,0,aqKJX@gmail.com,American,07/02/1972
+48,Jack,Nicholson,0,VWEptxdR@gmail.com,Canadian,01/05/1998
+49,Louise,Fletcher,0,fMswFXN@gmail.com,Canadian,05/31/1985
+50,Michael,Berryman,0,zMjOGwv@gmail.com,American,09/16/1975
+51,Robert,,0,gOZCt@gmail.com,American,06/12/2006
+52,Ray,Liotta,0,Vzmbcs@gmail.com,Canadian,05/03/2005
+53,Joe,Pesci,1,skuRhGnhXj@gmail.com,Canadian,04/13/1988
+54,Keanu,Reeves,0,PnvADV@gmail.com,American,10/18/2000
+55,Laurence,Fishburne,1,JwyPumuIGX@gmail.com,American,03/22/1977
+56,Carrie-Anne,Moss,0,JsAbcIbM@gmail.com,Canadian,05/06/1975
+57,Toshirô,Mifune,1,gOkMlT@gmail.com,Canadian,05/13/2007
+58,Takashi,Shimura,0,gRHWJiUT@gmail.com,Canadian,12/04/2007
+59,Keiko,Tsushima,0,dqvRtzC@gmail.com,Canadian,11/12/1976
+60,Morgan,Freeman,1,Xghciogi@gmail.com,American,04/13/1980
+61,Brad,Pitt,0,BMYpQFGE@gmail.com,American,02/19/1978
+62,Kevin,Spacey,0,uPvmKCoN@gmail.com,American,11/14/2006
+63,Alexandre,Rodrigues,0,QMUvR@gmail.com,American,03/21/1992
+64,Leandro,Firmino,0,ivvejuLHKC@gmail.com,Canadian,08/06/1971
+65,Matheus,Nachtergaele,0,XrxrkFALb@gmail.com,Canadian,06/16/2000
+66,Mark,Hamill,1,vkegdYNav@gmail.com,Canadian,12/17/1993
+67,Harrison,Ford,1,KNXMzEIZzK@gmail.com,Canadian,02/13/2008
+68,Carrie,Fisher,0,eCfQCVcT@gmail.com,American,02/27/1994
+69,Jodie,Foster,1,SqtgdfT@gmail.com,American,05/26/1986
+70,Anthony,Hopkins,1,zxgsw@gmail.com,American,03/07/1990
+71,Lawrence,,0,zdoNWOkR@gmail.com,Canadian,03/18/1970
+72,James,Stewart,1,yYLiNsMp@gmail.com,American,01/14/1996
+73,Donna,Reed,0,SXyMb@gmail.com,American,08/13/2001
+74,Lionel,Barrymore,0,FyWaodJ@gmail.com,American,05/31/2008
+75,Roberto,Benigni,0,QbFERHPON@gmail.com,Canadian,10/25/1985
+76,Nicoletta,Braschi,0,GdWMIat@gmail.com,American,10/22/2006
+77,Giorgio,Cantarini,0,XqfSJLSOK@gmail.com,Canadian,03/04/1982
+78,Daveigh,Chase,0,smcGbqJLBu@gmail.com,Canadian,01/29/2005
+79,Suzanne,Pleshette,0,GidHMm@gmail.com,Canadian,06/10/1997
+80,Miyu,Irino,1,vdOJtlKHk@gmail.com,American,08/13/1974
+81,Tom,Hanks,1,utVzIl@gmail.com,American,03/16/2007
+82,Matt,Damon,0,sWdRH@gmail.com,American,05/31/2008
+83,Tom,Sizemore,1,FEkwhDvxV@gmail.com,American,02/11/1990
+84,Kevin,Spacey,0,WYRYQMrw@gmail.com,Canadian,01/25/1989
+85,Gabriel,Byrne,0,czwdwp@gmail.com,American,04/09/1995
+86,Chazz,Palminteri,1,ODGNp@gmail.com,American,12/11/1995
+87,Jean,Reno,0,OvTNW@gmail.com,American,08/16/1972
+88,Gary,Oldman,1,aIAMjpQi@gmail.com,Canadian,06/24/1972
+89,Natalie,Portman,0,ZlzibFiHNr@gmail.com,American,11/05/1993
+90,Tom,Hanks,1,srvGj@gmail.com,Canadian,03/27/1995
+91,Michael,,0,xvNUpoQoT@gmail.com,American,05/11/1981
+92,David,Morse,1,ihRdF@gmail.com,Canadian,02/23/1972
+93,Matthew,McConaughey,1,wXNWDru@gmail.com,American,11/06/2001
+94,Anne,Hathaway,0,ckasMQCsGa@gmail.com,Canadian,08/16/1990
+95,Jessica,Chastain,1,JRbipznr@gmail.com,American,08/11/1998
+96,Anthony,Perkins,0,Hxgjz@gmail.com,American,10/14/1976
+97,Janet,Leigh,1,ggfuJ@gmail.com,American,09/16/2005
+98,Vera,Miles,0,GJDpmiQW@gmail.com,Canadian,05/30/1979
+99,Edward,Norton,1,TBEXmPoilK@gmail.com,American,04/29/1995
+100,Edward,Furlong,1,OSCWbqhq@gmail.com,American,08/04/2006
+101,Beverly,D'Angelo,0,RlIGYovt@gmail.com,Canadian,09/30/1992
+102,Charles,Chaplin,0,YCUQQ@gmail.com,American,08/08/2007
+103,Virginia,Cherrill,0,KQSvi@gmail.com,Canadian,12/04/2006
+104,Florence,Lee,1,hWklhyQXu@gmail.com,American,10/26/1981
+105,Humphrey,Bogart,0,mIrJjW@gmail.com,Canadian,10/21/1987
+106,Ingrid,Bergman,0,aEYwtOx@gmail.com,Canadian,04/28/2007
+107,Paul,Henreid,1,eUZtq@gmail.com,American,12/18/1972
+108,Henry,Fonda,1,xIVjqL@gmail.com,American,07/26/1994
+109,Charles,Bronson,0,LSCjfUkC@gmail.com,Canadian,09/17/1986
+110,Claudia,Cardinale,1,HaTbVi@gmail.com,Canadian,09/04/1984
+111,Adrien,Brody,0,MqvTfOO@gmail.com,American,02/23/2008
+112,Thomas,Kretschmann,0,fJxXfMExkp@gmail.com,Canadian,05/29/2000
+113,Frank,Finlay,1,xjRnQX@gmail.com,American,05/24/2008
+114,Charles,Chaplin,1,aqXiG@gmail.com,Canadian,10/13/1985
+115,Paulette,Goddard,0,tteMiBbe@gmail.com,Canadian,06/08/1978
+116,Henry,Bergman,1,uaKjqk@gmail.com,American,12/04/1991
+117,François,Cluzet,0,VXqifzLY@gmail.com,Canadian,08/13/2007
+118,Omar,Sy,0,dxpniZYGc@gmail.com,Canadian,03/04/1998
+119,Anne,,0,zYvME@gmail.com,Canadian,04/12/1985
+120,Leonardo,DiCaprio,1,htGuDEFZ@gmail.com,Canadian,05/18/2008
+121,Matt,Damon,0,ZFpkWSe@gmail.com,American,08/05/1982
+122,Jack,Nicholson,0,hgsqX@gmail.com,Canadian,06/23/2008
+123,Michael,,0,JsVnX@gmail.com,American,10/05/2000
+124,Christopher,Lloyd,1,bvnbOVb@gmail.com,American,09/15/1998
+125,Lea,Thompson,1,irlWUVSV@gmail.com,American,05/10/1970
+126,Arnold,Schwarzenegger,1,Ziokr@gmail.com,Canadian,05/01/1986
+127,Linda,Hamilton,1,icgovtlRze@gmail.com,Canadian,06/01/1979
+128,Edward,Furlong,1,ckVvPZKWfG@gmail.com,American,01/15/1981
+129,Miles,Teller,1,PADLbJuC@gmail.com,Canadian,12/15/1981
+130,J.K.,Simmons,0,TTzjg@gmail.com,American,11/17/1982
+131,Melissa,Benoist,1,PLQIohboXJ@gmail.com,American,12/31/1989
+132,Matthew,Broderick,1,pALFF@gmail.com,American,12/27/1999
+133,Jeremy,Irons,1,nbFbN@gmail.com,American,06/15/1998
+134,James,,0,MwySyPizD@gmail.com,Canadian,07/16/1994
+135,James,Stewart,0,TStYQkYXz@gmail.com,Canadian,05/19/2007
+136,Grace,Kelly,0,JyweHxVCm@gmail.com,Canadian,05/10/1996
+137,Wendell,Corey,0,itksgId@gmail.com,Canadian,11/03/1980
+138,Russell,Crowe,1,tUrLW@gmail.com,American,12/06/1972
+139,Joaquin,Phoenix,0,BkHPnMTb@gmail.com,Canadian,08/28/2006
+140,Connie,Nielsen,0,ylTzL@gmail.com,Canadian,07/10/2009
+141,Harrison,Ford,0,TXGfp@gmail.com,Canadian,08/09/1990
+142,Karen,Allen,1,ZQVYqKVAUW@gmail.com,American,12/07/1982
+143,Paul,Freeman,0,MWkjq@gmail.com,American,07/29/1985
+144,Christian,Bale,0,HuAHkYEWbr@gmail.com,Canadian,01/26/1987
+145,Hugh,Jackman,0,EtUUUJUWK@gmail.com,Canadian,04/28/1983
+146,Scarlett,Johansson,1,cMvkCi@gmail.com,Canadian,08/15/2000
+147,Martin,Sheen,0,PCcrNNBCTQ@gmail.com,Canadian,05/15/1981
+148,Marlon,Brando,0,CvDPynE@gmail.com,American,11/01/2002
+149,Robert,Duvall,0,YcKsLs@gmail.com,Canadian,05/18/1982
+150,Guy,Pearce,0,lbGfaBUJ@gmail.com,Canadian,06/27/1992
+151,Carrie-Anne,Moss,1,fzPrwdeDo@gmail.com,Canadian,10/26/1976
+152,Joe,Pantoliano,0,ekxzJJHOq@gmail.com,American,04/27/2002
+153,Sigourney,Weaver,0,SqEzS@gmail.com,American,02/22/1986
+154,Tom,Skerritt,0,dEmcI@gmail.com,American,10/11/1977
+155,John,Hurt,1,BEANYxrA@gmail.com,American,06/16/1978
+156,Tsutomu,Tatsumi,0,nbatoX@gmail.com,American,05/20/2004
+157,Ayano,Shiraishi,0,CWrQx@gmail.com,American,11/15/1981
+158,Akemi,Yamaguchi,0,tmLHWMLY@gmail.com,Canadian,11/01/2006
+159,Shameik,Moore,1,fqIrF@gmail.com,Canadian,10/18/2005
+160,Jake,Johnson,1,JGJlLnjQqX@gmail.com,Canadian,12/23/1988
+161,Hailee,Steinfeld,1,QCXhvrRj@gmail.com,Canadian,03/09/1986
+162,Philippe,Noiret,0,InORY@gmail.com,Canadian,12/16/1972
+163,Enzo,Cannavale,0,eUCTv@gmail.com,Canadian,07/07/1999
+164,Antonella,Attili,1,DmyTY@gmail.com,American,09/17/1995
+165,Charles,Chaplin,0,OQPDQR@gmail.com,Canadian,12/09/2009
+166,Paulette,Goddard,1,PcLhC@gmail.com,American,01/20/1982
+167,Jack,Oakie,0,JdLgNEMrq@gmail.com,American,01/22/2004
+168,William,Holden,1,fIRAYmwed@gmail.com,American,08/11/1983
+169,Gloria,Swanson,1,ZfNwZ@gmail.com,American,03/23/1993
+170,Erich,,1,BuBlZpfaGw@gmail.com,American,05/02/1989
+171,Ulrich,Mühe,1,nTYLSLJf@gmail.com,American,10/02/1982
+172,Martina,Gedeck,0,wxJtOH@gmail.com,Canadian,06/09/2002
+173,Sebastian,Koch,1,yBdZhxryk@gmail.com,Canadian,05/23/1977
+174,Peter,Sellers,1,JRpup@gmail.com,American,01/03/1996
+175,George,,0,egsUqT@gmail.com,Canadian,03/12/1989
+176,Sterling,Hayden,0,WcDsHzg@gmail.com,American,07/15/2004
+177,Robert,,0,ASIjpm@gmail.com,American,01/10/1983
+178,Chris,Hemsworth,0,YJCoPoMfrx@gmail.com,Canadian,07/09/2001
+179,Mark,Ruffalo,1,PxAQukirp@gmail.com,Canadian,10/23/2005
+180,Kirk,Douglas,1,MCdER@gmail.com,Canadian,12/08/2001
+181,Ralph,Meeker,1,xHrBnOmb@gmail.com,Canadian,03/07/1995
+182,Adolphe,Menjou,0,PtASAkbZV@gmail.com,Canadian,09/05/1995
+183,Jamie,Foxx,1,OJIjwEIwh@gmail.com,Canadian,01/19/1992
+184,Christoph,Waltz,1,zFCQoWNPd@gmail.com,American,11/30/2006
+185,Leonardo,DiCaprio,1,mlQzDqtu@gmail.com,American,04/01/1994
+186,Jack,Nicholson,1,ymSEmpfC@gmail.com,American,04/28/2006
+187,Shelley,Duvall,0,zKQYqpdz@gmail.com,American,04/28/1995
+188,Danny,Lloyd,1,YucWcO@gmail.com,American,09/14/1988
+189,Ben,Burtt,0,alTkxt@gmail.com,American,11/23/2001
+190,Elissa,Knight,1,fJqTniSgcR@gmail.com,American,08/16/1972
+191,Jeff,Garlin,1,mVQqAmgXx@gmail.com,American,10/01/1993
+192,Yôji,Matsuda,1,ACjNmQIc@gmail.com,Canadian,03/31/2000
+193,Yuriko,Ishida,1,ODDtfiA@gmail.com,Canadian,05/07/1973
+194,Yûko,Tanaka,1,JfQYocKiup@gmail.com,American,03/31/1997
+195,Tyrone,Power,0,WKSkrlX@gmail.com,American,12/01/1993
+196,Marlene,Dietrich,1,aiRDGehQIK@gmail.com,American,03/09/1991
+197,Charles,Laughton,0,sZtlE@gmail.com,Canadian,12/12/1989
+198,Sigourney,Weaver,1,iKbOQZGmD@gmail.com,American,09/07/1989
+199,Michael,Biehn,1,dFpObX@gmail.com,Canadian,06/06/2001
+200,Carrie,Henn,1,XheOgNgfsO@gmail.com,Canadian,11/19/1997
+201,Christian,Bale,0,JLGhygoxZ@gmail.com,Canadian,11/04/1978
+202,Tom,Hardy,1,AccecCMyT@gmail.com,Canadian,07/13/1973
+203,Anne,Hathaway,0,HJomzFYBTO@gmail.com,American,07/05/1972
+204,Kevin,Spacey,1,ijWYhxFan@gmail.com,Canadian,05/23/2006
+205,Annette,Bening,0,zuhRlR@gmail.com,Canadian,01/04/1974
+206,Thora,Birch,1,ecSxYF@gmail.com,American,01/03/2001
+207,Robert,,0,ySYPkMB@gmail.com,Canadian,11/03/2002
+208,James,Woods,0,Mezdauq@gmail.com,American,10/17/1975
+209,Elizabeth,McGovern,1,WFiNBk@gmail.com,Canadian,03/02/1998
+210,Anthony,Gonzalez,0,nIjDLXAT@gmail.com,American,10/21/1975
+211,Gael,,1,usjhRTyVua@gmail.com,Canadian,06/08/1977
+212,Benjamin,Bratt,1,uWRXuMvFGH@gmail.com,American,03/28/1984
+213,Jürgen,Prochnow,1,UJplq@gmail.com,Canadian,03/07/1982
+214,Herbert,Grönemeyer,1,rAdslT@gmail.com,American,10/05/1972
+215,Klaus,Wennemann,0,KNkjw@gmail.com,Canadian,05/10/1999
+216,Orson,Welles,0,wDZfnkDk@gmail.com,American,10/21/1995
+217,Joseph,Cotten,0,SOyYyBNt@gmail.com,Canadian,02/23/1998
+218,Dorothy,Comingore,1,YxhTs@gmail.com,American,07/09/1997
+219,Mel,Gibson,0,HXeXn@gmail.com,Canadian,04/09/1970
+220,Sophie,Marceau,0,KpvpdUzwAe@gmail.com,Canadian,10/18/2005
+221,Patrick,McGoohan,1,uFAXDHnpf@gmail.com,American,10/20/1975
+222,James,Stewart,1,UgGHTVMX@gmail.com,American,12/18/2009
+223,Kim,Novak,0,RHuqmA@gmail.com,American,09/11/1975
+224,Barbara,,1,aTyBMCxs@gmail.com,Canadian,01/08/1990
+225,Cary,Grant,0,mGDNYqk@gmail.com,American,01/09/1985
+226,Eva,,1,FxFvzvCwD@gmail.com,Canadian,07/16/1993
+227,James,Mason,0,YZlmABhNR@gmail.com,American,11/30/1987
+228,Harvey,Keitel,1,RIfPvD@gmail.com,Canadian,08/06/1995
+229,Tim,Roth,0,cICEoG@gmail.com,American,11/22/1987
+230,Michael,Madsen,0,XnHVUaDF@gmail.com,Canadian,08/18/2000
+231,Ryûnosuke,Kamiki,0,lORitgLT@gmail.com,American,10/04/1987
+232,Mone,Kamishiraishi,0,JHACxUkKy@gmail.com,Canadian,11/12/1975
+233,Ryô,Narita,0,Inwbjhb@gmail.com,Canadian,12/16/1992
+234,Mark,Hamill,0,HZUnOnQDIa@gmail.com,American,02/04/1986
+235,Harrison,Ford,1,RtDKMj@gmail.com,Canadian,07/12/2005
+236,Carrie,Fisher,0,eqpiwG@gmail.com,Canadian,08/16/1994
+237,Peter,Lorre,0,lrWSjPmHc@gmail.com,American,04/04/2007
+238,Ellen,Widmann,1,bxlIn@gmail.com,American,03/09/1982
+239,Inge,Landgut,1,qAfWOaJdlk@gmail.com,Canadian,12/17/1992
+240,F.,,0,YReRH@gmail.com,American,05/25/1978
+241,Tom,Hulce,1,sFBZv@gmail.com,Canadian,12/19/1986
+242,Elizabeth,Berridge,0,NtSFgmy@gmail.com,American,11/09/1970
+243,Ellen,Burstyn,1,IAYOnajlVC@gmail.com,American,07/17/1994
+244,Jared,Leto,0,CRFsXNi@gmail.com,Canadian,10/04/1975
+245,Jennifer,Connelly,1,GfEPZ@gmail.com,American,03/31/2009
+246,Aamir,Khan,0,TcxDE@gmail.com,Canadian,04/23/1971
+247,Sakshi,Tanwar,1,nsMIw@gmail.com,Canadian,11/13/2000
+248,Fatima,,1,UxVlv@gmail.com,Canadian,11/07/1986
+249,Aamir,Khan,1,tubnmo@gmail.com,Canadian,10/16/2008
+250,Madhavan,,1,TDfThdg@gmail.com,Canadian,12/29/1998
+251,Mona,Singh,0,OxPoq@gmail.com,Canadian,05/09/2008
+252,Keir,Dullea,1,qRSpJEFO@gmail.com,Canadian,04/07/2008
+253,Gary,Lockwood,1,eDHeCQpgf@gmail.com,Canadian,08/09/1998
+254,William,Sylvester,0,ZsePJ@gmail.com,Canadian,02/04/1982
+255,Tom,Hanks,0,bELJB@gmail.com,Canadian,11/08/1983
+256,Tim,Allen,0,DgUKdAuer@gmail.com,Canadian,01/19/2008
+257,Don,Rickles,0,XTCcQlrmZT@gmail.com,American,09/29/1988
+258,Jonita,Gandhi,1,jDTMwmRzbr@gmail.com,Canadian,07/02/1980
+259,Tony,Kakkar,0,IjjgylcqP@gmail.com,Canadian,12/24/1986
+260,Shankar,Mahadevan,1,RRCHSmwL@gmail.com,American,09/23/2004
+261,Jim,Carrey,1,jRTwnBL@gmail.com,Canadian,05/26/1983
+262,Kate,Winslet,0,BwtrDpUxV@gmail.com,Canadian,10/21/1990
+263,Tom,Wilkinson,0,bGfxOcJN@gmail.com,Canadian,09/03/2000
+264,Peter,O'Toole,0,RFMdF@gmail.com,Canadian,05/19/1993
+265,Alec,Guinness,0,mHAkMlhYBV@gmail.com,Canadian,10/22/1979
+266,Anthony,Quinn,1,dvBqhak@gmail.com,Canadian,04/20/1970
+267,Malcolm,McDowell,0,TiVQc@gmail.com,Canadian,01/29/2005
+268,Patrick,Magee,0,gXyEulPq@gmail.com,American,05/12/1976
+269,Michael,Bates,0,uxeCKEsx@gmail.com,American,10/26/1974
+270,Gene,Kelly,1,ZxEVpx@gmail.com,American,02/24/2005
+271,Donald,O'Connor,1,KflueYVH@gmail.com,Canadian,06/23/2002
+272,Debbie,Reynolds,0,xVpQIK@gmail.com,Canadian,07/13/2007
+273,Audrey,Tautou,1,aluIk@gmail.com,American,04/14/1973
+274,Mathieu,Kassovitz,0,vwLdHjGaa@gmail.com,American,10/23/1984
+275,Rufus,,0,xcLErFr@gmail.com,American,09/14/1990
+276,Fred,MacMurray,0,itoUT@gmail.com,Canadian,12/05/2004
+277,Barbara,Stanwyck,1,qOlEyuEYfs@gmail.com,American,07/29/1984
+278,Edward,,0,TkTJNdI@gmail.com,Canadian,07/21/2002
+279,Brad,Pitt,0,qlDvezMXu@gmail.com,American,12/02/1998
+280,Diane,Kruger,0,oZlVwUd@gmail.com,American,07/27/1985
+281,Eli,Roth,0,AOHpodgrQg@gmail.com,Canadian,10/15/1975
+282,Robert,,0,kvsMFzgUb@gmail.com,Canadian,10/29/1988
+283,Jodie,Foster,1,AwpwG@gmail.com,Canadian,05/29/1974
+284,Cybill,Shepherd,1,yDmVo@gmail.com,American,12/11/1979
+285,Matthew,Modine,0,UlVdJTXvb@gmail.com,Canadian,08/07/1975
+286,R.,,1,ShfzTm@gmail.com,American,02/15/1973
+287,Vincent,D'Onofrio,0,PxaYtNoMH@gmail.com,Canadian,01/30/1998
+288,Gregory,Peck,0,OOTBBBYDs@gmail.com,Canadian,08/12/1994
+289,John,Megna,1,dXmjs@gmail.com,Canadian,06/14/1994
+290,Frank,Overton,1,vHOIs@gmail.com,Canadian,02/21/1982
+291,Lamberto,Maggiorani,1,MSgFrBZtmf@gmail.com,Canadian,04/13/1970
+292,Enzo,Staiola,1,gFxhL@gmail.com,Canadian,06/23/1998
+293,Lianella,Carell,1,qlrzSt@gmail.com,American,01/10/1977
+294,Robin,Williams,1,IZzzdrej@gmail.com,Canadian,03/11/1979
+295,Matt,Damon,1,MSxRCKKGmc@gmail.com,American,08/15/1991
+296,Ben,Affleck,0,zOYYOCO@gmail.com,American,09/10/2003
+297,Charles,Chaplin,0,kvaGQyV@gmail.com,American,08/08/1988
+298,Edna,Purviance,0,ekgqeLva@gmail.com,Canadian,07/15/1970
+299,Jackie,Coogan,1,gdbOO@gmail.com,American,03/01/1982
+300,Paul,Newman,0,ZFnCljzaQ@gmail.com,Canadian,06/28/1981
+301,Robert,Redford,1,DhOrovzP@gmail.com,American,06/11/1978
+302,Robert,Shaw,1,feOyzYTw@gmail.com,Canadian,07/17/1977
+303,Mads,Mikkelsen,1,cfLApacbo@gmail.com,American,08/24/1970
+304,Thomas,,0,MMAYl@gmail.com,Canadian,03/05/1999
+305,Annika,Wedderkopp,0,TFnegfIsJJ@gmail.com,Canadian,02/18/1980
+306,Tom,Hanks,0,ADCSS@gmail.com,Canadian,01/01/1993
+307,Tim,Allen,1,AmtoTjgQ@gmail.com,American,04/28/2005
+308,Joan,Cusack,0,fQGeutzwZx@gmail.com,Canadian,12/10/1979
+309,Jason,Statham,0,axztzFU@gmail.com,Canadian,04/07/2008
+310,Brad,Pitt,0,qmfgcac@gmail.com,American,02/20/1983
+311,Stephen,Graham,0,MrthOv@gmail.com,American,10/22/2004
+312,Al,Pacino,0,LJnoxbfqIw@gmail.com,American,09/28/2001
+313,Michelle,Pfeiffer,0,iKIFwXgr@gmail.com,Canadian,04/10/1980
+314,Steven,Bauer,1,TWSPrKLe@gmail.com,American,06/12/1985
+315,Clint,Eastwood,0,rBdVZPXB@gmail.com,Canadian,09/10/1977
+316,Lee,,0,HwTUcMKy@gmail.com,American,07/13/1991
+317,Gian,,0,taDKfCxKu@gmail.com,American,09/28/1999
+318,Jack,Lemmon,0,DsivSe@gmail.com,American,09/04/2004
+319,Shirley,MacLaine,0,ZuUhdF@gmail.com,American,09/25/1973
+320,Fred,MacMurray,1,PkdeG@gmail.com,American,11/23/1984
+321,Brigitte,Helm,1,gSWQMH@gmail.com,American,05/28/1987
+322,Alfred,Abel,1,oxIcXsU@gmail.com,Canadian,10/09/1974
+323,Gustav,Fröhlich,0,qiwmZMZ@gmail.com,Canadian,05/13/1977
+324,Graham,Chapman,1,ySVnepYTzG@gmail.com,Canadian,09/24/1988
+325,John,Cleese,1,UffPumBDWq@gmail.com,American,03/12/2001
+326,Eric,Idle,0,dHmhEymdy@gmail.com,Canadian,09/21/1985
+327,Kevin,Spacey,0,pQmlfpO@gmail.com,Canadian,12/01/1977
+328,Russell,Crowe,1,uaNCx@gmail.com,American,06/06/1986
+329,Guy,Pearce,0,CRMzylP@gmail.com,Canadian,02/20/2006
+330,Payman,Maadi,1,AtQCXktSjh@gmail.com,Canadian,01/31/2005
+331,Leila,Hatami,1,TVfXpBml@gmail.com,Canadian,12/03/1992
+332,Sareh,Bayat,0,SskbqaV@gmail.com,American,07/26/1972
+333,Harrison,Ford,1,TaGQKzdBBx@gmail.com,Canadian,07/18/1998
+334,Sean,Connery,0,mAuKo@gmail.com,Canadian,01/21/2004
+335,Alison,Doody,0,bYluync@gmail.com,American,06/14/1970
+336,Ed,Asner,0,MIuaQp@gmail.com,American,11/15/1997
+337,Jordan,Nagai,1,uCVwgX@gmail.com,Canadian,04/19/1974
+338,John,Ratzenberger,0,tSDwriPB@gmail.com,Canadian,09/11/1992
+339,Omenosuke,Ichikawa,1,HRDql@gmail.com,American,11/03/1990
+340,Setsuko,Kai,1,kEGap@gmail.com,Canadian,02/08/1975
+341,Yoshiko,Kashiwa,1,NrcLkzXw@gmail.com,Canadian,09/17/1995
+342,Bette,Davis,1,oCXRDjjFi@gmail.com,Canadian,06/19/2003
+343,Anne,Baxter,0,xpuFHUATqY@gmail.com,Canadian,11/18/2003
+344,George,Sanders,0,SZxXsRQhJu@gmail.com,Canadian,04/17/1993
+345,Christian,Bale,0,FTbcXcZg@gmail.com,Canadian,06/08/1973
+346,Michael,Caine,0,vjRAzYEw@gmail.com,American,02/10/2008
+347,Ken,Watanabe,0,qtUbNtnpRz@gmail.com,Canadian,01/31/1970
+348,Marilyn,Monroe,1,pJJvBaU@gmail.com,American,09/13/2006
+349,Tony,Curtis,1,pDMSXbOOi@gmail.com,Canadian,10/17/1979
+350,Jack,Lemmon,0,NfcGOa@gmail.com,American,10/24/1996
+351,Toshirô,Mifune,1,xbzCi@gmail.com,American,08/05/1998
+352,Eijirô,Tôno,0,jHapdRpBfg@gmail.com,American,04/26/1985
+353,Tatsuya,Nakadai,0,DMzUyyYyhh@gmail.com,American,04/22/1993
+354,Bruno,Ganz,1,ILYrc@gmail.com,Canadian,11/08/1975
+355,Alexandra,,1,nyciwCdrCC@gmail.com,American,05/20/1998
+356,Ulrich,Matthes,0,OKuxdBpf@gmail.com,American,10/26/1986
+357,Clint,Eastwood,1,RBohhyZrv@gmail.com,Canadian,05/26/1982
+358,Gene,Hackman,0,cJOYcKN@gmail.com,American,03/18/1981
+359,Morgan,Freeman,1,sDTfXoODO@gmail.com,Canadian,05/04/1996
+360,Bruce,Willis,1,pYiuyYR@gmail.com,American,07/28/1994
+361,Alan,Rickman,1,cJRXQrTG@gmail.com,American,07/29/1985
+362,Bonnie,Bedelia,0,brSAoGQ@gmail.com,American,03/05/2007
+363,Al,Pacino,1,CRwxMVIe@gmail.com,Canadian,05/19/1991
+364,Robert,,1,WWZawe@gmail.com,American,03/21/1999
+365,Val,Kilmer,1,RWjLKgn@gmail.com,Canadian,01/28/1988
+366,Humphrey,Bogart,0,sROhKEU@gmail.com,American,08/02/1972
+367,Walter,Huston,0,edjpV@gmail.com,American,03/06/1983
+368,Tim,Holt,1,QxMDhtT@gmail.com,Canadian,10/16/1985
+369,Lubna,Azabal,1,yhlLmCTQ@gmail.com,Canadian,01/18/2004
+370,Mélissa,Désormeaux-Poulin,1,yLvro@gmail.com,Canadian,06/18/1970
+371,Maxim,Gaudette,0,OrbIkYME@gmail.com,American,07/10/1997
+372,Takashi,Shimura,1,kSAIVh@gmail.com,American,08/02/1998
+373,Nobuo,Kaneko,0,YhANb@gmail.com,American,11/27/2002
+374,Shin'ichi,Himori,1,WyomSGk@gmail.com,Canadian,07/01/1981
+375,Viggo,Mortensen,1,fJevbhDjMR@gmail.com,American,09/22/1978
+376,Mahershala,Ali,0,jadBxdwI@gmail.com,Canadian,03/16/1976
+377,Linda,Cardellini,0,bHFlbmqHQ@gmail.com,Canadian,08/16/1975
+378,Robert,,0,VWwUkMmy@gmail.com,American,06/24/2007
+379,Cathy,Moriarty,1,exlYOw@gmail.com,American,11/02/1987
+380,Joe,Pesci,1,tHEwMSaTg@gmail.com,American,08/16/1990
+381,Steve,McQueen,0,trdEMNqq@gmail.com,American,05/12/1987
+382,James,Garner,0,IQTqq@gmail.com,American,07/27/1981
+383,Richard,Attenborough,1,EYdXtLmAp@gmail.com,American,07/18/2006
+384,Mohammad,,0,EMBWTex@gmail.com,American,04/19/1977
+385,Amir,,1,wdIPCLDc@gmail.com,Canadian,11/19/1989
+386,Bahare,Seddiqi,0,rHLZkqbvJ@gmail.com,Canadian,12/24/1982
+387,Ivana,Baquero,1,CFrontg@gmail.com,American,01/14/1986
+388,Ariadna,Gil,0,dZZiFRZZ@gmail.com,American,07/14/1985
+389,Sergi,López,1,qASjkDif@gmail.com,American,08/07/1980
+390,Jack,Nicholson,1,XUQFTty@gmail.com,Canadian,11/20/2000
+391,Faye,Dunaway,0,yIUklHtYY@gmail.com,Canadian,07/05/1979
+392,John,Huston,1,CwdvAjje@gmail.com,American,10/25/1976
+393,Hitoshi,Takagi,0,UsBWT@gmail.com,Canadian,03/14/1974
+394,Noriko,Hidaka,0,sIVErDs@gmail.com,Canadian,12/26/1973
+395,Chika,Sakamoto,1,mdxNBnls@gmail.com,American,11/10/1980
+396,Orson,Welles,1,ZcasVuzJC@gmail.com,Canadian,08/03/2009
+397,Joseph,Cotten,1,AofSquab@gmail.com,American,11/07/1988
+398,Alida,Valli,1,MgCEfEM@gmail.com,American,05/31/1993
+399,Chieko,Baishô,1,JSGbcvH@gmail.com,Canadian,09/17/1989
+400,Takuya,Kimura,0,WmFAdMhXq@gmail.com,Canadian,09/24/1987
+401,Tatsuya,Gashûin,1,CbfVIVqiJo@gmail.com,American,08/28/1988
+402,Tatsuya,Nakadai,0,LBQaUd@gmail.com,Canadian,11/12/2005
+403,Akira,Terao,1,raNskaqig@gmail.com,Canadian,05/13/1999
+404,Jinpachi,Nezu,1,JMtbB@gmail.com,Canadian,10/13/1987
+405,Spencer,Tracy,1,nVJgh@gmail.com,American,06/30/2009
+406,Burt,Lancaster,1,IpgWKnXWL@gmail.com,American,09/27/2009
+407,Richard,Widmark,0,dCCXSdp@gmail.com,Canadian,07/19/1983
+408,Ricardo,Darín,1,oZuxKRFI@gmail.com,American,07/31/1976
+409,Soledad,Villamil,1,JkEPkvPx@gmail.com,American,11/15/1997
+410,Pablo,Rago,1,nwJoBZa@gmail.com,Canadian,03/01/1989
+411,Charles,Chaplin,0,WxIzshyNZa@gmail.com,American,06/16/1977
+412,Mack,Swain,0,uxwMB@gmail.com,Canadian,11/29/1974
+413,Tom,Murray,0,xwrNhYgOk@gmail.com,American,05/06/1978
+414,Russell,Crowe,1,GwXTAmbiN@gmail.com,American,08/11/2007
+415,Ed,Harris,0,xXhijpvJNs@gmail.com,American,03/23/1996
+416,Jennifer,Connelly,0,Zuuso@gmail.com,American,09/15/2003
+417,William,Holden,0,BQAuDISHZ@gmail.com,Canadian,12/03/1996
+418,Alec,Guinness,0,jkABBg@gmail.com,American,08/28/1994
+419,Jack,Hawkins,1,rnojhRNMiu@gmail.com,Canadian,05/10/1991
+420,Jason,Flemyng,0,YXTDOMjMNm@gmail.com,Canadian,10/13/2007
+421,Dexter,Fletcher,0,BSRiYtFMTU@gmail.com,Canadian,03/14/1998
+422,Nick,Moran,1,FzcJGHInu@gmail.com,Canadian,09/08/1985
+423,Max,,0,ynGZrJXN@gmail.com,American,10/20/1975
+424,Gunnar,Björnstrand,0,xXblALRPa@gmail.com,Canadian,10/29/1996
+425,Bengt,Ekerot,1,YNOBHYC@gmail.com,Canadian,10/28/1983
+426,Frances,McDormand,0,hUTnwRS@gmail.com,American,09/12/1972
+427,Woody,Harrelson,0,vTVwPc@gmail.com,Canadian,06/03/1980
+428,Sam,Rockwell,0,SPfFmdHF@gmail.com,American,09/27/1985
+429,Marlon,Brando,1,UweEGovQsb@gmail.com,American,07/31/1994
+430,Karl,Malden,0,SKfPpV@gmail.com,Canadian,01/04/1993
+431,Lee,,0,ufWvKSU@gmail.com,Canadian,07/15/1987
+432,Leonardo,DiCaprio,0,QlcRfTLCF@gmail.com,American,11/23/2000
+433,Jonah,Hill,1,RvjpIKG@gmail.com,American,09/10/1980
+434,Margot,Robbie,0,DsGIGC@gmail.com,Canadian,11/29/2002
+435,Anthony,Hopkins,0,pafDoTRKc@gmail.com,Canadian,11/18/1986
+436,John,Hurt,0,sKuBAZl@gmail.com,Canadian,06/11/1988
+437,Anne,Bancroft,0,cZlKoPQx@gmail.com,Canadian,10/28/1997
+438,Amy,Poehler,1,kwbUoW@gmail.com,American,06/05/1974
+439,Bill,Hader,0,ozuRENsx@gmail.com,Canadian,12/16/1988
+440,Lewis,Black,0,AvPFWXJjH@gmail.com,American,02/15/2002
+441,Hugo,Weaving,1,VcFTNgtz@gmail.com,American,05/02/1971
+442,Natalie,Portman,1,uZVuqzuuS@gmail.com,Canadian,10/06/2004
+443,Rupert,Graves,0,pDTfzkmq@gmail.com,American,08/14/1972
+444,James,Stewart,1,tOxgBoDXu@gmail.com,Canadian,03/16/1989
+445,Jean,Arthur,0,tfQtZ@gmail.com,American,10/23/1986
+446,Claude,Rains,0,gAMqQHMNL@gmail.com,American,12/14/1973
+447,Brie,Larson,1,LYtrlgJE@gmail.com,Canadian,09/04/1984
+448,Jacob,Tremblay,1,uCOlIif@gmail.com,American,06/12/1977
+449,Sean,Bridgers,1,BcqsobhrIO@gmail.com,American,10/13/2002
+450,Tom,Hardy,1,EjJQrhsjB@gmail.com,Canadian,03/10/1977
+451,Nick,Nolte,1,xphiF@gmail.com,Canadian,02/16/1995
+452,Joel,Edgerton,0,WBRkCIK@gmail.com,Canadian,05/01/1986
+453,Harrison,Ford,0,WGCuj@gmail.com,American,01/06/1993
+454,Rutger,Hauer,0,NhPQkpS@gmail.com,Canadian,03/10/1980
+455,Sean,Young,0,yFAZzwe@gmail.com,American,07/10/1978
+456,Ray,Milland,1,VIxTxHB@gmail.com,American,05/16/2009
+457,Grace,Kelly,0,SiNFmiUMwt@gmail.com,American,06/29/2009
+458,Robert,Cummings,1,MSrZUUFOvw@gmail.com,Canadian,05/12/1981
+459,Tommy,,1,Cvfzvp@gmail.com,Canadian,08/14/1971
+460,Javier,Bardem,1,qbnnawW@gmail.com,Canadian,08/29/2003
+461,Josh,Brolin,1,MZsqzZY@gmail.com,Canadian,10/13/2006
+462,Daniel,Day-Lewis,0,fgEeW@gmail.com,American,03/14/1975
+463,Paul,Dano,0,AzKEZgHQB@gmail.com,Canadian,02/16/1981
+464,Ciarán,Hinds,1,MWFQu@gmail.com,Canadian,09/05/1980
+465,Ayushmann,Khurrana,1,GSXrkfiqQ@gmail.com,American,10/10/1971
+466,Tabu,,0,cZiOkyrM@gmail.com,American,10/21/1979
+467,Radhika,Apte,0,xNlIQMLCQL@gmail.com,Canadian,09/03/1987
+468,Victor,Sjöström,0,ufOiXe@gmail.com,Canadian,09/30/2003
+469,Bibi,Andersson,1,ycUYgFgIk@gmail.com,Canadian,04/05/1994
+470,Ingrid,Thulin,1,yTzapPtUYP@gmail.com,American,02/27/1986
+471,Bruce,Willis,0,OuKTTmlIYZ@gmail.com,American,02/11/1980
+472,Haley,,1,kMOFDXMj@gmail.com,Canadian,08/19/1988
+473,Toni,Collette,1,cnjfLELvZv@gmail.com,Canadian,09/01/1992
+474,Buster,Keaton,0,KcCSAGl@gmail.com,American,11/28/1995
+475,Marion,Mack,1,kiuEMIoOe@gmail.com,American,08/24/1980
+476,Glen,Cavender,1,qwtOUZm@gmail.com,Canadian,05/23/1981
+477,Ewan,McGregor,1,GWPlDAUXP@gmail.com,American,09/06/2007
+478,Ewen,Bremner,0,fguwkBU@gmail.com,American,08/04/1980
+479,Jonny,,0,eFbYsMbSoH@gmail.com,American,03/02/1998
+480,Clark,Gable,1,DocmaDHaP@gmail.com,American,02/12/1991
+481,Vivien,Leigh,1,hytEACik@gmail.com,American,08/23/1981
+482,Thomas,Mitchell,0,bzNxPvvl@gmail.com,American,02/16/1996
+483,Kurt,Russell,1,IfaBTYAAA@gmail.com,American,01/13/1970
+484,Wilford,Brimley,0,UtvcwG@gmail.com,Canadian,02/20/1972
+485,Keith,David,1,dHOAcU@gmail.com,American,02/17/1971
+486,William,,1,yKlhPDsxT@gmail.com,Canadian,07/02/1974
+487,Frances,McDormand,1,FjeCdZ@gmail.com,American,08/14/1975
+488,Steve,Buscemi,0,wSiBazm@gmail.com,American,01/17/1975
+489,Aleksey,Kravchenko,1,LHzjxcgeJH@gmail.com,American,09/26/1998
+490,Olga,Mironova,1,NcBntd@gmail.com,Canadian,11/03/2002
+491,Liubomiras,Laucevicius,1,ydJHcuv@gmail.com,Canadian,02/05/1984
+492,Clint,Eastwood,0,VvXCb@gmail.com,American,01/11/1993
+493,Bee,Vang,1,xsCiToEANM@gmail.com,Canadian,11/23/1991
+494,Christopher,Carley,0,oMedGIKKjk@gmail.com,Canadian,08/01/1980
+495,Albert,Brooks,1,gBmciyn@gmail.com,Canadian,09/07/1990
+496,Ellen,DeGeneres,1,NGCkj@gmail.com,Canadian,02/01/1981
+497,Alexander,Gould,1,hlwLf@gmail.com,American,07/02/1996
+498,Robert,,1,LjqkHjIg@gmail.com,American,09/29/1982
+499,Christopher,Walken,1,kiJjxJPfPp@gmail.com,Canadian,08/19/2002
+500,John,Cazale,1,clLQEM@gmail.com,Canadian,06/01/1972
+501,Leonardo,DiCaprio,1,utecmOfajN@gmail.com,Canadian,06/04/1994
+502,Emily,Mortimer,1,giRMx@gmail.com,American,06/04/1970
+503,Mark,Ruffalo,0,GNJXDE@gmail.com,American,07/29/2000
+504,Jeff,Bridges,1,bcXhDB@gmail.com,Canadian,06/11/1992
+505,John,Goodman,0,PXZTVWlxvP@gmail.com,Canadian,10/15/1972
+506,Julianne,Moore,1,goGcAvQ@gmail.com,Canadian,08/21/1981
+507,Uma,Thurman,1,iFyctDwm@gmail.com,Canadian,12/07/1976
+508,David,Carradine,0,PYQqVgCaf@gmail.com,American,07/16/1998
+509,Daryl,Hannah,1,sfDRCJX@gmail.com,Canadian,08/02/2001
+510,Buster,Keaton,0,tcmyj@gmail.com,American,03/24/2009
+511,Kathryn,McGuire,1,yZQoCp@gmail.com,American,01/13/1990
+512,Joe,Keaton,0,oBUsilKMj@gmail.com,American,10/14/1974
+513,Paul,Newman,0,zTXCbjFpb@gmail.com,American,01/08/1972
+514,George,Kennedy,0,sJcqAY@gmail.com,American,01/14/2000
+515,Strother,Martin,0,VpjcIVyGgY@gmail.com,Canadian,10/17/1979
+516,Chishû,Ryû,0,cweHsbgkla@gmail.com,American,09/09/1999
+517,Chieko,Higashiyama,1,mMZRk@gmail.com,Canadian,04/10/1999
+518,Sô,Yamamura,0,isKWjpUYHa@gmail.com,American,04/02/1974
+519,Toni,Collette,0,cdqoT@gmail.com,American,09/18/2008
+520,Philip,,0,rRqXZ@gmail.com,American,09/12/2000
+521,Eric,Bana,0,ZWQZZWeBrH@gmail.com,Canadian,12/10/1999
+522,Laurence,Olivier,0,equPHKjxYZ@gmail.com,American,07/08/1998
+523,Joan,Fontaine,0,SKftunz@gmail.com,American,08/26/2002
+524,George,Sanders,1,THPAEb@gmail.com,American,07/31/1972
+525,Andrew,Garfield,0,kHVsrrEpL@gmail.com,Canadian,12/03/1983
+526,Sam,Worthington,1,hWtdVLlqs@gmail.com,American,01/10/1994
+527,Luke,Bracey,1,yTXQwdYNjF@gmail.com,American,08/08/1971
+528,Sam,Neill,0,EMIpXq@gmail.com,Canadian,10/20/1993
+529,Laura,Dern,1,CfwGg@gmail.com,Canadian,08/21/2007
+530,Jeff,Goldblum,1,uaHkVa@gmail.com,Canadian,11/28/1986
+531,Jay,Baruchel,1,RKLcDUWnEw@gmail.com,American,01/02/1993
+532,Gerard,Butler,0,jaMDGzJQw@gmail.com,American,02/08/1988
+533,Christopher,Mintz-Plasse,1,fSQwXOdj@gmail.com,Canadian,11/17/1981
+534,Ben,Affleck,0,bhSAipB@gmail.com,Canadian,03/15/1977
+535,Rosamund,Pike,1,XJHVKgzKPE@gmail.com,Canadian,01/31/1988
+536,Neil,,1,cAigG@gmail.com,American,06/21/1999
+537,Jim,Carrey,0,JkUwhWF@gmail.com,American,04/13/2006
+538,Ed,Harris,1,KzKKqivj@gmail.com,Canadian,12/30/1983
+539,Laura,Linney,0,XCEEYj@gmail.com,Canadian,12/05/2001
+540,George,O'Brien,1,MUZNMzoRlP@gmail.com,Canadian,05/05/1986
+541,Janet,Gaynor,1,izYZseDPP@gmail.com,American,05/13/2000
+542,Margaret,Livingston,1,RvhvfeSufF@gmail.com,American,08/18/1993
+543,Alisa,Freyndlikh,0,mXOGPgC@gmail.com,American,05/11/1975
+544,Aleksandr,Kaydanovskiy,0,bVEPwJwg@gmail.com,Canadian,07/03/2006
+545,Anatoliy,Solonitsyn,1,oFORWTMc@gmail.com,Canadian,01/21/2003
+546,Ralph,Fiennes,0,bSkJek@gmail.com,Canadian,05/26/2006
+547,F.,,0,RteQmJ@gmail.com,Canadian,12/31/1994
+548,Mathieu,Amalric,1,jqotuSUt@gmail.com,American,06/20/2005
+549,Daniel,Day-Lewis,0,fDDkP@gmail.com,Canadian,12/01/2006
+550,Pete,Postlethwaite,0,kctumAZ@gmail.com,American,03/30/1996
+551,Alison,Crosbie,1,KTXIAuy@gmail.com,Canadian,08/25/1993
+552,Wil,Wheaton,1,UezjBBw@gmail.com,Canadian,08/10/2006
+553,River,Phoenix,0,zoAhrShB@gmail.com,American,10/10/1979
+554,Corey,Feldman,1,AyIJo@gmail.com,Canadian,02/11/1971
+555,Emile,Hirsch,1,sAbTYRNDK@gmail.com,American,11/10/2006
+556,Vince,Vaughn,1,SoZDj@gmail.com,American,05/21/1972
+557,Catherine,Keener,0,FwcaqQmYa@gmail.com,Canadian,10/29/2001
+558,Clark,Gable,1,XydTIojH@gmail.com,Canadian,04/18/1973
+559,Claudette,Colbert,0,DVRtDFlGId@gmail.com,Canadian,10/09/1995
+560,Walter,Connolly,1,SpKGySpFeo@gmail.com,American,10/31/1998
+561,Charlie,Sheen,1,HUUzKO@gmail.com,Canadian,09/25/1973
+562,Tom,Berenger,1,VsUyreu@gmail.com,Canadian,04/25/1971
+563,Willem,Dafoe,0,mefdQF@gmail.com,American,05/04/1979
+564,Kang-ho,Song,0,dbTpSVteN@gmail.com,American,10/19/1974
+565,Kim,Sang-kyung,1,afouQQ@gmail.com,American,03/30/1994
+566,Roe-ha,Kim,1,NJNZFDwqe@gmail.com,Canadian,04/20/1978
+567,Faye,Dunaway,0,ePuTfQsJn@gmail.com,Canadian,05/11/1994
+568,William,Holden,0,psbfYaf@gmail.com,American,11/13/1970
+569,Peter,Finch,1,tEhfSsB@gmail.com,Canadian,01/09/1983
+570,Graham,Chapman,0,oMpOHOx@gmail.com,Canadian,11/26/1981
+571,John,Cleese,1,scRsYGB@gmail.com,American,04/26/1971
+572,Michael,Palin,0,yFDsse@gmail.com,American,03/08/1992
+573,Charlton,Heston,1,mQxjBNn@gmail.com,Canadian,07/27/1986
+574,Jack,Hawkins,1,vsBwcxy@gmail.com,Canadian,08/13/1976
+575,Stephen,Boyd,1,KkaJdkYt@gmail.com,Canadian,07/25/1982
+576,Bibi,Andersson,0,HmkqJSIgjf@gmail.com,American,05/11/1979
+577,Liv,Ullmann,1,DsMbGOQxy@gmail.com,Canadian,09/18/1983
+578,Margaretha,Krook,0,aqCjXXOyR@gmail.com,American,02/22/1988
+579,Chiwetel,Ejiofor,1,WmQcFy@gmail.com,American,10/24/1988
+580,Michael,,1,XiNaUveKAS@gmail.com,Canadian,10/13/1974
+581,Michael,Fassbender,0,ScvhS@gmail.com,Canadian,04/18/2001
+582,Hilary,Swank,1,RdeWBQ@gmail.com,Canadian,05/01/1971
+583,Clint,Eastwood,1,qCrJll@gmail.com,Canadian,10/05/1975
+584,Morgan,Freeman,1,Cqmymuj@gmail.com,American,06/13/1976
+585,Don,Cheadle,0,uoQBAC@gmail.com,Canadian,05/12/1999
+586,Sophie,Okonedo,1,jgbNs@gmail.com,American,12/08/2005
+587,Joaquin,Phoenix,1,VcKFAhn@gmail.com,Canadian,03/06/2001
+588,Ethan,Hawke,0,bLnLCrY@gmail.com,Canadian,05/07/1981
+589,Julie,Delpy,0,DWQcCDlB@gmail.com,American,10/26/1991
+590,Andrea,Eckert,1,ZkaKSCK@gmail.com,Canadian,06/11/1975
+591,Megumi,Ogata,0,UuUJT@gmail.com,American,04/03/2009
+592,Megumi,Hayashibara,0,TkvRujeS@gmail.com,American,05/17/2003
+593,Yûko,Miyamura,0,YDltR@gmail.com,American,10/29/1975
+594,Sener,Sen,1,TMUKAX@gmail.com,Canadian,09/02/1991
+595,Ugur,Yücel,0,bOMNT@gmail.com,Canadian,06/15/2007
+596,Sermin,Hürmeriç,0,sHSKmzqOkG@gmail.com,Canadian,12/16/1991
+597,Hugh,Jackman,0,ZCtrz@gmail.com,American,07/22/2007
+598,Jake,Gyllenhaal,0,VqeWDTrHL@gmail.com,American,01/11/1999
+599,Viola,Davis,1,NRlyDGntl@gmail.com,American,07/10/2003
+600,Tom,Hardy,0,srXoEcYKD@gmail.com,American,04/17/1981
+601,Charlize,Theron,0,BxYYjv@gmail.com,Canadian,08/04/1982
+602,Nicholas,Hoult,0,tMEwulordp@gmail.com,American,11/27/1974
+603,Yves,Montand,1,jBsFqKojT@gmail.com,Canadian,07/04/1985
+604,Charles,Vanel,0,aoNIfH@gmail.com,Canadian,08/12/1993
+605,Peter,,1,EGYtHYLK@gmail.com,American,04/18/1970
+606,Daniel,Brühl,0,ZjMdweY@gmail.com,American,02/16/1972
+607,Chris,Hemsworth,1,XyBld@gmail.com,American,10/30/2005
+608,Olivia,Wilde,1,iUmgxxJC@gmail.com,Canadian,07/11/1984
+609,Richard,Gere,1,ZwGCz@gmail.com,Canadian,04/13/1980
+610,Joan,Allen,1,RpiXNPKXov@gmail.com,Canadian,08/11/1984
+611,Cary-Hiroyuki,Tagawa,1,LEoOfHUAw@gmail.com,American,04/23/1980
+612,Hugh,Jackman,0,eiitb@gmail.com,Canadian,01/11/1977
+613,Patrick,Stewart,1,kZXOptfSJo@gmail.com,American,02/27/2008
+614,Dafne,Keen,1,EhaLKv@gmail.com,Canadian,10/01/1995
+615,Anatoliy,Solonitsyn,0,wTONZIFQ@gmail.com,American,01/07/1989
+616,Ivan,Lapikov,0,tjVWo@gmail.com,American,03/01/2001
+617,Nikolay,Grinko,0,zvVoavS@gmail.com,American,10/02/1977
+618,Jean-Pierre,Léaud,1,QeTPRCUSs@gmail.com,Canadian,07/03/1974
+619,Albert,Rémy,1,HzAvroEc@gmail.com,Canadian,06/11/1975
+620,Claire,Maurier,1,dNFKtjEm@gmail.com,American,05/03/1980
+621,Leonardo,DiCaprio,0,NUilNVn@gmail.com,Canadian,01/30/1995
+622,Tom,Hanks,1,bUxmiYiS@gmail.com,Canadian,02/11/1974
+623,Christopher,Walken,1,caeeigOE@gmail.com,Canadian,05/31/2009
+624,Mark,Ruffalo,0,cjBydu@gmail.com,American,10/23/1994
+625,Michael,Keaton,1,IbXbZtZier@gmail.com,Canadian,11/14/1998
+626,Rachel,McAdams,1,dHCbCJwUpu@gmail.com,Canadian,07/28/1992
+627,Maria,Falconetti,1,jHISJUurgn@gmail.com,Canadian,04/13/2008
+628,Eugene,Silvain,1,bsTXpe@gmail.com,Canadian,05/27/1980
+629,André,Berley,0,ZpBPqL@gmail.com,Canadian,10/08/1985
+630,Emilio,Echevarría,1,ZsRfll@gmail.com,American,01/01/1971
+631,Gael,,1,sSfYrNRz@gmail.com,American,02/17/2006
+632,Goya,Toledo,1,ggpFTiifsv@gmail.com,Canadian,05/16/1980
+633,Daniel,Radcliffe,1,modBjJn@gmail.com,American,09/03/2003
+634,Emma,Watson,1,ubfXFNy@gmail.com,Canadian,02/18/1999
+635,Rupert,Grint,0,rfqfUQQ@gmail.com,American,11/15/1970
+636,Sumi,Shimamoto,0,IlIljH@gmail.com,American,04/05/1972
+637,Mahito,Tsujimura,0,tjuzjv@gmail.com,American,03/05/1975
+638,Hisako,Kyôda,0,CjrcC@gmail.com,American,09/08/1996
+639,Cary,Elwes,1,Uugpn@gmail.com,American,07/23/1995
+640,Mandy,Patinkin,1,nFjZDEM@gmail.com,American,05/16/1980
+641,Robin,Wright,1,NjVOqpEgp@gmail.com,American,01/04/1986
+642,Sylvester,Stallone,0,aiiQT@gmail.com,American,02/11/2002
+643,Talia,Shire,1,HqFzbRFqQC@gmail.com,American,07/19/1992
+644,Burt,Young,1,FGXfKMpQv@gmail.com,American,01/01/1990
+645,Ryan,O'Neal,1,YIBlYeX@gmail.com,Canadian,11/09/1989
+646,Marisa,Berenson,1,yMyMeKWk@gmail.com,Canadian,05/13/2008
+647,Patrick,Magee,0,tFrOfnlXiu@gmail.com,Canadian,02/15/2006
+648,Paul,Newman,0,kFMEmw@gmail.com,American,03/26/1996
+649,Robert,Redford,0,GQfan@gmail.com,Canadian,12/28/1984
+650,Katharine,Ross,0,AcqTyNnSLA@gmail.com,American,07/20/2001
+651,Aamir,Khan,1,uJuttYvUx@gmail.com,American,06/16/1984
+652,Soha,,0,LjhvRdN@gmail.com,Canadian,07/19/1986
+653,Siddharth,,0,KdBZUDtq@gmail.com,American,06/15/2001
+654,Billy,Crystal,1,rRxogH@gmail.com,Canadian,03/22/2009
+655,John,Goodman,1,MwAiiUGZ@gmail.com,American,09/30/2000
+656,Mary,Gibbs,1,drMWYTE@gmail.com,Canadian,05/28/1998
+657,Robin,Williams,1,rKYOFGIk@gmail.com,Canadian,11/25/2004
+658,Robert,,1,AjdiLynvrl@gmail.com,American,05/29/2008
+659,Ethan,Hawke,1,lJeGKz@gmail.com,American,01/12/1991
+660,Henry,Fonda,0,XijIAtq@gmail.com,American,05/17/1975
+661,Jane,Darwell,1,QrhfR@gmail.com,Canadian,11/25/2008
+662,John,Carradine,1,BfjFWwfl@gmail.com,Canadian,02/10/1980
+663,Humphrey,Bogart,0,yKibJ@gmail.com,Canadian,02/03/1988
+664,Mary,Astor,0,vHkfH@gmail.com,Canadian,12/19/1999
+665,Gladys,George,0,fEaaiyZffu@gmail.com,American,04/18/1992
+666,Arnold,Schwarzenegger,0,dTWGQvuO@gmail.com,Canadian,10/31/1987
+667,Linda,Hamilton,0,HKrpSzYv@gmail.com,American,06/14/2002
+668,Michael,Biehn,1,fDaqbfxItM@gmail.com,American,04/20/1982
+669,Gong,Li,0,ZRolEJZ@gmail.com,American,02/02/1998
+670,Jingwu,Ma,1,VqkIOdcR@gmail.com,Canadian,08/30/1996
+671,Saifei,He,1,dkLPHiqClj@gmail.com,Canadian,01/13/1980
+672,Kim,Min-hee,0,FaECgJ@gmail.com,American,05/21/1974
+673,Ha,Jung-woo,1,DxpZwCVo@gmail.com,Canadian,12/07/1984
+674,Cho,Jin-woong,1,vEcGQTllmT@gmail.com,American,05/22/1983
+675,Ben,Kingsley,1,zDpWO@gmail.com,American,02/03/1982
+676,John,Gielgud,1,FIolLUf@gmail.com,American,07/13/1985
+677,Rohini,Hattangadi,0,NHwXdIS@gmail.com,Canadian,07/22/1992
+678,Vincent,Cassel,1,XGznF@gmail.com,American,12/15/1987
+679,Hubert,Koundé,1,eZxSjgl@gmail.com,American,11/24/1983
+680,Saïd,Taghmaoui,0,nwJtoxKo@gmail.com,American,03/31/1978
+681,Jake,Gyllenhaal,0,tUMwR@gmail.com,Canadian,01/27/1990
+682,Jena,Malone,0,lpqJbbj@gmail.com,Canadian,02/23/1994
+683,Mary,McDonnell,1,uXAgUhxgtz@gmail.com,American,04/27/1976
+684,Tony,,1,jHEEdsK@gmail.com,Canadian,04/09/1983
+685,Maggie,Cheung,0,trmvR@gmail.com,American,03/05/1970
+686,Siu,Ping-Lam,0,sgKiFQ@gmail.com,Canadian,06/04/1986
+687,Simone,Signoret,1,dLKiVrCXoU@gmail.com,Canadian,04/12/1972
+688,Véra,Clouzot,1,TKzyMtBD@gmail.com,Canadian,10/02/2007
+689,Paul,Meurisse,0,dOWuiFVmq@gmail.com,Canadian,07/05/2004
+690,Bill,Murray,0,eqSyM@gmail.com,Canadian,04/14/2004
+691,Andie,MacDowell,1,mebuNZVLB@gmail.com,Canadian,09/06/1985
+692,Chris,Elliott,1,HiswNV@gmail.com,Canadian,02/20/1975
+693,Emma,Stone,0,OgCaEMT@gmail.com,American,12/30/1992
+694,Viola,Davis,1,PAZfSwvbbx@gmail.com,American,06/06/1997
+695,Octavia,Spencer,1,AIYXgpqXs@gmail.com,American,01/30/2006
+696,Judy,Garland,1,mTckZRNF@gmail.com,American,05/09/1997
+697,Frank,Morgan,1,qzZNvj@gmail.com,American,06/15/2001
+698,Ray,Bolger,0,RPopkUPDSn@gmail.com,American,02/13/2008
+699,Roy,Scheider,1,akral@gmail.com,Canadian,12/10/1977
+700,Robert,Shaw,0,UatkoheTHe@gmail.com,Canadian,07/16/1978
+701,Richard,Dreyfuss,1,wNyjSPh@gmail.com,American,12/17/1980
+702,Chris,Pratt,1,xefSGbXfD@gmail.com,Canadian,01/21/2009
+703,Vin,Diesel,0,rUOTux@gmail.com,Canadian,01/17/1972
+704,Bradley,Cooper,1,uQWvxkYNp@gmail.com,Canadian,08/05/1973
+705,Ethan,Hawke,0,gmjKqZIYV@gmail.com,American,11/15/1996
+706,Julie,Delpy,1,dUubSWB@gmail.com,Canadian,06/13/1976
+707,Vernon,Dobtcheff,1,IiXbfV@gmail.com,American,01/05/1987
+708,Mayumi,Tanaka,1,bnxcAu@gmail.com,American,07/06/2008
+709,Keiko,Yokozawa,0,EslLJi@gmail.com,Canadian,08/29/1977
+710,Kotoe,Hatsui,0,dkPJlcDY@gmail.com,Canadian,09/14/1971
+711,Harry,,1,GMKoHdf@gmail.com,American,01/03/1974
+712,Nastassja,Kinski,0,pftCrBo@gmail.com,American,08/17/1981
+713,Dean,Stockwell,0,yhBkIVxiET@gmail.com,Canadian,08/11/1973
+714,Johnny,Depp,0,rrNwFyVrB@gmail.com,American,02/01/1970
+715,Geoffrey,Rush,1,dhPKJGRKS@gmail.com,Canadian,05/25/1988
+716,Orlando,Bloom,0,gAkElG@gmail.com,American,09/24/1972
+717,Paige,O'Hara,1,ruXpXCt@gmail.com,American,06/05/2000
+718,Robby,Benson,1,ipMPNzZy@gmail.com,Canadian,10/21/2007
+719,Jesse,Corti,0,GkCQnBtgR@gmail.com,American,04/06/1976
+720,Ellen,Burstyn,0,ysdzvmp@gmail.com,Canadian,10/05/1995
+721,Max,,1,Miihw@gmail.com,Canadian,01/15/1985
+722,Linda,Blair,1,XJWWj@gmail.com,Canadian,06/13/1990
+723,Irène,Jacob,0,DptBa@gmail.com,Canadian,05/10/1992
+724,Jean-Louis,Trintignant,0,ZxIUiHWaPf@gmail.com,Canadian,04/26/1976
+725,Frédérique,Feder,1,MybnjsPrhz@gmail.com,Canadian,11/08/2005
+726,Mitsuo,Iwata,0,jdeHNyXAt@gmail.com,American,11/02/1975
+727,Nozomu,Sasaki,1,BPRpBw@gmail.com,Canadian,05/07/1976
+728,Mami,Koyama,1,KyGbQsjXur@gmail.com,Canadian,06/16/1977
+729,Manoj,Bajpayee,1,CgAQxoz@gmail.com,American,07/03/1977
+730,Richa,Chadha,0,EaEEeOJZC@gmail.com,Canadian,04/26/1987
+731,Nawazuddin,Siddiqui,1,hLsYSQyd@gmail.com,American,09/12/2000
+732,Aamir,Khan,1,ydsDif@gmail.com,Canadian,07/12/1975
+733,Anushka,Sharma,1,vBYSkvaVkJ@gmail.com,Canadian,12/12/2000
+734,Sanjay,Dutt,1,pFsEHVClCE@gmail.com,American,08/11/1978
+735,Frank,Darabont,1,GoJQKJxats@gmail.com,American,02/07/1984
+736,Francis,,0,RopQR@gmail.com,Canadian,04/25/2000
+737,Francis,,0,yVAYc@gmail.com,Canadian,04/17/1986
+738,Christopher,Nolan,0,zHdbWy@gmail.com,Canadian,09/20/2000
+739,Sidney,Lumet,1,WLJVyncrs@gmail.com,Canadian,12/25/1993
+740,Steven,Spielberg,0,FgefoBUdv@gmail.com,American,04/29/1985
+741,Peter,Jackson,0,xjDWlWQ@gmail.com,American,08/15/1995
+742,Quentin,Tarantino,1,AOTQWEmtk@gmail.com,Canadian,05/07/1993
+743,Sergio,Leone,1,cmfuPt@gmail.com,American,08/09/2006
+744,David,Fincher,1,KYaqsJ@gmail.com,American,04/20/1992
+745,Peter,Jackson,1,uBHLBN@gmail.com,Canadian,02/07/1991
+746,Robert,Zemeckis,1,AlBgkGlAdC@gmail.com,Canadian,01/26/1993
+747,Irvin,Kershner,1,zfzejEnmJ@gmail.com,Canadian,09/08/1983
+748,Christopher,Nolan,0,bdFXrbXU@gmail.com,Canadian,02/05/1991
+749,Peter,Jackson,1,jQAOHBwOXG@gmail.com,American,06/02/1988
+750,Anthony,Russo,0,WPJPLPM@gmail.com,Canadian,05/03/1984
+751,Joe,Russo,1,OIVEv@gmail.com,American,11/27/1977
+752,Milos,Forman,1,uKOIJ@gmail.com,American,09/25/2000
+753,Martin,Scorsese,1,MdtUJVX@gmail.com,American,04/26/2009
+754,Lana,Wachowski,1,pIGeuhMm@gmail.com,Canadian,12/15/2005
+755,Lilly,Wachowski,0,oeOCOF@gmail.com,American,10/20/1973
+756,Akira,Kurosawa,1,veyXtPer@gmail.com,Canadian,08/25/1978
+757,David,Fincher,1,qShmyqX@gmail.com,Canadian,01/07/1975
+758,Fernando,Meirelles,1,sGDwNI@gmail.com,American,11/16/1972
+759,Kátia,Lund,0,ebFWzhfrO@gmail.com,American,03/29/1993
+760,George,Lucas,0,iNAxFKMTL@gmail.com,American,06/04/1997
+761,Jonathan,Demme,1,exySYfKfq@gmail.com,Canadian,03/10/1989
+762,Frank,Capra,0,GQTcoHiQ@gmail.com,American,08/06/1990
+763,Roberto,Benigni,0,vnBZanK@gmail.com,American,10/24/1971
+764,Hayao,Miyazaki,0,ZDgkgAxm@gmail.com,American,06/21/1981
+765,Steven,Spielberg,0,EtmxXFI@gmail.com,American,01/28/1991
+766,Bryan,Singer,1,GGlYamdYK@gmail.com,American,02/26/1977
+767,Luc,Besson,0,YNICzA@gmail.com,American,01/12/1998
+768,Frank,Darabont,0,mQuLX@gmail.com,American,06/17/1979
+769,Christopher,Nolan,1,xuxlDTpt@gmail.com,American,04/25/1982
+770,Alfred,Hitchcock,0,uyycIxCuk@gmail.com,American,07/31/1973
+771,Tony,Kaye,1,FyMUdIo@gmail.com,American,12/10/1984
+772,Charles,Chaplin,1,cgqsbi@gmail.com,American,10/25/1990
+773,Michael,Curtiz,0,XuTvRaB@gmail.com,American,06/29/2009
+774,Sergio,Leone,0,TuYPbVbEF@gmail.com,American,06/22/1992
+775,Roman,Polanski,1,ovSgvO@gmail.com,American,08/06/2005
+776,Charles,Chaplin,0,TEgaxQ@gmail.com,American,05/01/2006
+777,Olivier,Nakache,0,DOdWQroqn@gmail.com,American,03/26/2008
+778,Éric,Toledano,0,bRGxy@gmail.com,American,10/29/1970
+779,Martin,Scorsese,1,XpVOleQrwv@gmail.com,Canadian,04/09/1985
+780,Robert,Zemeckis,0,zINfkj@gmail.com,Canadian,06/02/2009
+781,James,Cameron,1,kWwBWb@gmail.com,American,03/11/1993
+782,Damien,Chazelle,0,rqyYMNUg@gmail.com,Canadian,03/11/1995
+783,Roger,Allers,1,vokREpeT@gmail.com,American,05/27/1994
+784,Rob,Minkoff,0,xSTxarXDb@gmail.com,American,10/31/1996
+785,Alfred,Hitchcock,1,TwLXN@gmail.com,American,07/23/1972
+786,Ridley,Scott,0,FxgicpQ@gmail.com,Canadian,07/09/1999
+787,Steven,Spielberg,0,joMRFJwGI@gmail.com,American,05/01/1998
+788,Christopher,Nolan,0,yLSlBxxni@gmail.com,American,04/28/1984
+789,Francis,,0,WwhPoKtF@gmail.com,Canadian,08/17/2009
+790,Christopher,Nolan,0,VrdUZHMd@gmail.com,Canadian,12/20/1979
+791,Ridley,Scott,0,JFZrmYDi@gmail.com,Canadian,02/27/1998
+792,Isao,Takahata,0,RMTvsRhIE@gmail.com,American,12/05/1999
+793,Bob,Persichetti,1,Kxcozody@gmail.com,Canadian,08/25/2005
+794,Peter,Ramsey,0,bogAM@gmail.com,American,01/12/1974
+795,Rodney,Rothman,0,wvawP@gmail.com,Canadian,02/20/1986
+796,Giuseppe,Tornatore,0,arkSfI@gmail.com,Canadian,05/01/1998
+797,Charles,Chaplin,0,FnkeaOcdCS@gmail.com,Canadian,08/10/1996
+798,Billy,Wilder,1,STlhjZQU@gmail.com,Canadian,04/01/1992
+799,Florian,,1,GzvWBDCT@gmail.com,Canadian,08/09/1972
+800,Stanley,Kubrick,1,AQldOOj@gmail.com,American,02/19/1993
+801,Anthony,Russo,0,YwPZMBgm@gmail.com,American,02/19/1982
+802,Joe,Russo,0,UgWTLGDd@gmail.com,American,06/01/1978
+803,Stanley,Kubrick,1,yuXneb@gmail.com,Canadian,02/14/1973
+804,Quentin,Tarantino,0,hnRyuzIaM@gmail.com,Canadian,01/26/1976
+805,Stanley,Kubrick,1,eUXrMiw@gmail.com,American,04/18/1999
+806,Andrew,Stanton,1,qXTaLy@gmail.com,Canadian,12/15/1994
+807,Hayao,Miyazaki,1,Kmago@gmail.com,American,09/13/2002
+808,Billy,Wilder,1,obrqjOeh@gmail.com,Canadian,07/06/1994
+809,James,Cameron,1,SIfJRddNV@gmail.com,American,08/23/1999
+810,Christopher,Nolan,1,vmTbia@gmail.com,American,06/10/2006
+811,Sam,Mendes,1,dxBZQPU@gmail.com,American,03/23/1991
+812,Sergio,Leone,1,ttWyoLHXBB@gmail.com,Canadian,10/13/2004
+813,Lee,Unkrich,0,irXxjGWpqd@gmail.com,American,11/10/2002
+814,Adrian,Molina,0,GATAYqaQkQ@gmail.com,Canadian,08/08/1975
+815,Wolfgang,Petersen,1,mxUYdTfzVK@gmail.com,Canadian,08/25/1988
+816,Orson,Welles,1,NRxWUrABw@gmail.com,American,10/02/1972
+817,Mel,Gibson,0,LmiRtYSLMQ@gmail.com,Canadian,10/31/1996
+818,Alfred,Hitchcock,1,FZiSA@gmail.com,Canadian,06/11/1988
+819,Alfred,Hitchcock,0,hWnMn@gmail.com,Canadian,02/18/1988
+820,Quentin,Tarantino,1,pJlNKqBJh@gmail.com,American,01/01/2008
+821,Makoto,Shinkai,0,fjkWavJAk@gmail.com,Canadian,02/25/1971
+822,Richard,Marquand,1,iJzRiDP@gmail.com,American,01/26/2006
+823,Fritz,Lang,1,MYOFZMH@gmail.com,American,02/01/1982
+824,Milos,Forman,0,CVpNn@gmail.com,American,05/07/1977
+825,Darren,Aronofsky,1,sYGfeznJSI@gmail.com,Canadian,05/16/1976
+826,Nitesh,Tiwari,0,qTgJaqsjsi@gmail.com,Canadian,08/27/1998
+827,Rajkumar,Hirani,1,lQzthP@gmail.com,American,12/23/2007
+828,Stanley,Kubrick,0,WXxcewPg@gmail.com,Canadian,04/12/1985
+829,John,Lasseter,1,GVonYmDeqt@gmail.com,American,09/18/1991
+830,Michel,Gondry,0,QlqoxGizTZ@gmail.com,American,10/21/1970
+831,David,Lean,1,JJUMqam@gmail.com,Canadian,04/20/1989
+832,Stanley,Kubrick,1,strPJ@gmail.com,Canadian,01/30/1989
+833,Stanley,Donen,1,XIwGejYdMO@gmail.com,American,01/26/1991
+834,Gene,Kelly,1,MGZqScDhF@gmail.com,American,06/24/1971
+835,Jean-Pierre,Jeunet,0,LIFxGcxEO@gmail.com,American,08/23/1986
+836,Billy,Wilder,1,YweKLf@gmail.com,Canadian,10/24/1975
+837,Quentin,Tarantino,0,ptTBlqxyq@gmail.com,Canadian,07/12/2005
+838,Martin,Scorsese,1,yJqYhCcs@gmail.com,Canadian,04/05/1984
+839,Stanley,Kubrick,0,JMpGph@gmail.com,Canadian,10/26/1980
+840,Robert,Mulligan,1,TokFwEFT@gmail.com,American,09/22/2005
+841,Vittorio,,0,ugPGwzA@gmail.com,Canadian,04/10/1974
+842,Gus,,1,DZVMhwzs@gmail.com,Canadian,10/22/1995
+843,Charles,Chaplin,1,YZKWX@gmail.com,American,01/09/1971
+844,George,,0,EYdPf@gmail.com,American,04/29/1985
+845,Thomas,Vinterberg,0,PJprEMnwaZ@gmail.com,Canadian,01/16/1994
+846,Lee,Unkrich,1,RjSJrl@gmail.com,American,01/09/1980
+847,Guy,Ritchie,1,mtzEQj@gmail.com,Canadian,12/18/2006
+848,Brian,,0,JuiFixG@gmail.com,American,03/26/1971
+849,Sergio,Leone,1,SOpdb@gmail.com,American,01/28/1996
+850,Billy,Wilder,1,xejUytgjF@gmail.com,Canadian,09/29/1989
+851,Fritz,Lang,0,qgghyB@gmail.com,Canadian,01/04/2001
+852,Terry,Gilliam,0,rzIsmqVTQm@gmail.com,Canadian,11/25/1984
+853,Terry,Jones,1,YBStFcbNOW@gmail.com,American,08/15/1978
+854,Curtis,Hanson,0,FSZgXd@gmail.com,American,01/24/1976
+855,Asghar,Farhadi,1,XBduDP@gmail.com,American,11/04/1997
+856,Steven,Spielberg,0,WyBZK@gmail.com,Canadian,04/30/1985
+857,Pete,Docter,1,BSulsiJcp@gmail.com,Canadian,10/22/1995
+858,Bob,Peterson,0,dwlnjMUjmI@gmail.com,American,05/17/1980
+859,Shinzo,Yoshida,1,iBvbvi@gmail.com,Canadian,05/13/1989
+860,Joseph,,1,kCWHg@gmail.com,American,10/15/2007
+861,Christopher,Nolan,1,aGkenePDn@gmail.com,American,03/31/1977
+862,Billy,Wilder,1,GqKBzZwchv@gmail.com,Canadian,12/27/1970
+863,Akira,Kurosawa,0,flAMpO@gmail.com,Canadian,03/26/2008
+864,Oliver,Hirschbiegel,1,hCyiRhHOYS@gmail.com,American,05/26/1984
+865,Clint,Eastwood,0,JfdJtI@gmail.com,Canadian,07/29/1982
+866,John,McTiernan,0,blXWTxiunt@gmail.com,Canadian,01/12/2008
+867,Michael,Mann,0,fyVtcXi@gmail.com,Canadian,03/14/1984
+868,John,Huston,0,FwMeEb@gmail.com,American,09/14/1979
+869,Denis,Villeneuve,1,nurDOO@gmail.com,Canadian,06/03/1994
+870,Akira,Kurosawa,1,ElrOR@gmail.com,Canadian,03/03/1992
+871,Peter,Farrelly,1,HRDlfzudMh@gmail.com,American,10/28/1974
+872,Martin,Scorsese,1,gUWCXRyMB@gmail.com,Canadian,11/16/1973
+873,John,Sturges,1,HlNPhArw@gmail.com,American,12/16/1996
+874,Majid,Majidi,1,qVnJkuabCS@gmail.com,Canadian,02/08/1983
+875,Guillermo,,1,WMTjmNJMz@gmail.com,Canadian,08/09/1989
+876,Roman,Polanski,1,lTOqjpcrBK@gmail.com,American,01/31/1981
+877,Hayao,Miyazaki,1,CaDRNQTr@gmail.com,American,01/04/1985
+878,Carol,Reed,0,pnvnNAEYq@gmail.com,American,03/25/2002
+879,Hayao,Miyazaki,0,gECXd@gmail.com,American,04/25/1971
+880,Akira,Kurosawa,1,LlzET@gmail.com,Canadian,02/28/2001
+881,Stanley,Kramer,1,EgTNctYTK@gmail.com,American,12/05/1973
+882,Juan,,1,TzKHghr@gmail.com,American,09/22/1997
+883,Charles,Chaplin,1,xgiGontP@gmail.com,Canadian,02/10/1987
+884,Ron,Howard,0,YsAgzt@gmail.com,American,11/05/2001
+885,David,Lean,0,kMKveWgRPm@gmail.com,American,02/27/1978
+886,Guy,Ritchie,1,MCAqaGQY@gmail.com,American,02/23/1983
+887,Ingmar,Bergman,0,HINaYUzW@gmail.com,Canadian,01/02/1982
+888,Martin,McDonagh,1,vLPbnuHT@gmail.com,American,03/01/1977
+889,Elia,Kazan,1,btNqPM@gmail.com,Canadian,06/01/1996
+890,Martin,Scorsese,0,VDKOMz@gmail.com,American,06/13/1975
+891,David,Lynch,1,sGVavcSA@gmail.com,Canadian,07/09/2006
+892,Pete,Docter,0,JglPhJsFLb@gmail.com,Canadian,08/26/1983
+893,Ronnie,,0,ByyTke@gmail.com,American,07/06/1988
+894,James,McTeigue,0,mqoeCbl@gmail.com,Canadian,11/07/1986
+895,Frank,Capra,1,ascfQO@gmail.com,American,11/29/1979
+896,Lenny,Abrahamson,1,AHjIq@gmail.com,Canadian,07/16/1988
+897,Gavin,O'Connor,1,SdLLud@gmail.com,Canadian,01/30/2008
+898,Ridley,Scott,1,enbIpKL@gmail.com,Canadian,05/07/1985
+899,Alfred,Hitchcock,0,EjMIiNTtA@gmail.com,Canadian,09/14/2007
+900,Ethan,Coen,1,GSSTqJ@gmail.com,American,10/26/1994
+901,Joel,Coen,0,pOTrAO@gmail.com,Canadian,02/18/1975
+902,Paul,,1,IxqZonK@gmail.com,American,04/22/2006
+903,Sriram,Raghavan,0,RIfUaBzC@gmail.com,American,03/01/1973
+904,Ingmar,Bergman,0,mpYzgRyY@gmail.com,American,05/12/1996
+905,M.,,1,eKQelKI@gmail.com,American,03/18/1998
+906,Clyde,Bruckman,1,JYEPTFfD@gmail.com,Canadian,10/16/2005
+907,Buster,Keaton,0,aolTzAUgPx@gmail.com,Canadian,10/24/1995
+908,Danny,Boyle,1,OUTKG@gmail.com,American,09/13/1981
+909,Victor,Fleming,0,SfUmA@gmail.com,American,01/12/1979
+910,George,Cukor,0,cfJsvX@gmail.com,Canadian,12/11/1990
+911,Sam,Wood,1,DuAQJUqFOH@gmail.com,Canadian,08/02/1997
+912,John,Carpenter,0,ssczZUXDES@gmail.com,American,12/26/1983
+913,Joel,Coen,0,UwibufZlIB@gmail.com,Canadian,11/01/2003
+914,Ethan,Coen,1,ZEBTuQOdh@gmail.com,American,12/30/1992
+915,Elem,Klimov,1,pOXZqHkqA@gmail.com,Canadian,01/27/1984
+916,Clint,Eastwood,1,xxQZNH@gmail.com,American,06/05/1986
+917,Andrew,Stanton,1,wnLrII@gmail.com,Canadian,12/25/1990
+918,Lee,Unkrich,1,eJHMBZP@gmail.com,American,04/29/1997
+919,Michael,Cimino,1,XmUfnW@gmail.com,Canadian,11/01/1999
+920,Martin,Scorsese,0,wjQzmS@gmail.com,American,07/26/1995
+921,Joel,Coen,0,HVmKst@gmail.com,American,01/16/1970
+922,Ethan,Coen,1,QUOoWsV@gmail.com,Canadian,03/23/1977
+923,Quentin,Tarantino,0,YmXQa@gmail.com,Canadian,04/07/1988
+924,Buster,Keaton,0,nmQGzlQY@gmail.com,Canadian,09/23/2002
+925,Stuart,Rosenberg,1,rhcnDX@gmail.com,American,04/14/1999
+926,Yasujirô,Ozu,0,zlpXKsGX@gmail.com,American,08/21/1999
+927,Adam,Elliot,0,VPjwjoh@gmail.com,Canadian,10/26/1987
+928,Alfred,Hitchcock,0,oOWjuTYpI@gmail.com,American,01/05/2002
+929,Mel,Gibson,0,BmcEO@gmail.com,American,10/14/2006
+930,Steven,Spielberg,0,ZKVcXvsvmb@gmail.com,Canadian,10/23/1988
+931,Dean,DeBlois,1,meLHEqM@gmail.com,American,04/04/1978
+932,Chris,Sanders,0,cNuIviGF@gmail.com,Canadian,09/22/2008
+933,David,Fincher,0,TQjDaNB@gmail.com,American,05/03/2009
+934,Peter,Weir,0,gjIslRmQ@gmail.com,Canadian,05/11/1997
+935,F.W.,Murnau,1,RSgJZxPF@gmail.com,American,03/01/2007
+936,Andrei,Tarkovsky,1,aTRTj@gmail.com,American,05/31/1984
+937,Wes,Anderson,0,qVaMYn@gmail.com,American,03/18/1982
+938,Jim,Sheridan,0,LEfSkYpVzj@gmail.com,American,02/14/2008
+939,Rob,Reiner,1,bMBMU@gmail.com,Canadian,11/15/1987
+940,Sean,Penn,1,qbZYb@gmail.com,American,11/23/2007
+941,Frank,Capra,0,LBceUJWxIF@gmail.com,American,07/03/1988
+942,Oliver,Stone,1,FtwPgO@gmail.com,American,02/20/1989
+943,Bong,,0,gZgST@gmail.com,Canadian,08/17/1975
+944,Sidney,Lumet,1,gCUSVIkd@gmail.com,Canadian,11/20/1994
+945,Terry,Jones,1,CtCXIj@gmail.com,Canadian,09/15/1998
+946,William,Wyler,1,rRxzepx@gmail.com,American,05/04/1996
+947,Ingmar,Bergman,1,uZYWqC@gmail.com,Canadian,04/02/2009
+948,Steve,McQueen,0,bcDvMXRaU@gmail.com,Canadian,02/26/1977
+949,Clint,Eastwood,1,iYmWkv@gmail.com,American,04/16/2007
+950,Terry,George,0,NkjTxxBx@gmail.com,American,06/11/1975
+951,Richard,Linklater,1,arhqAkzB@gmail.com,Canadian,12/21/1989
+952,Hideaki,Anno,0,eUrrgUBQ@gmail.com,Canadian,08/03/2007
+953,Kazuya,Tsurumaki,1,LUPsUxIr@gmail.com,American,04/30/1972
+954,Yavuz,Turgul,0,VYYmxi@gmail.com,Canadian,11/23/1990
+955,Denis,Villeneuve,1,UCZRmtTRM@gmail.com,American,12/16/1970
+956,George,Miller,0,UUGhWTrWyM@gmail.com,American,11/06/1974
+957,Henri-Georges,Clouzot,1,fAwFE@gmail.com,Canadian,11/04/1995
+958,Ron,Howard,0,OrgelON@gmail.com,American,01/31/1977
+959,Lasse,Hallström,0,GcTzOhYn@gmail.com,Canadian,03/28/1993
+960,James,Mangold,1,BAbiI@gmail.com,American,08/08/1994
+961,Andrei,Tarkovsky,0,BGamsBfviP@gmail.com,Canadian,10/28/1994
+962,François,Truffaut,0,LkqDR@gmail.com,American,09/13/1980
+963,Steven,Spielberg,1,NtGXHEN@gmail.com,Canadian,07/14/1974
+964,Tom,McCarthy,0,IwJkktSl@gmail.com,American,09/12/2003
+965,Carl,,0,kCMrQD@gmail.com,American,09/07/1995
+966,Alejandro,,0,hSBhO@gmail.com,Canadian,11/28/1993
+967,David,Yates,0,xnGpbNA@gmail.com,American,03/09/1985
+968,Hayao,Miyazaki,0,tAkcBBhi@gmail.com,American,03/21/2004
+969,Rob,Reiner,1,eYfFy@gmail.com,American,02/02/2008
+970,John,,0,IMxOe@gmail.com,Canadian,06/20/2000
+971,Stanley,Kubrick,0,LpndQHPZcY@gmail.com,Canadian,07/20/2008
+972,George,,1,zCAXrsxdmU@gmail.com,Canadian,08/28/2000
+973,Rakeysh,,0,GAIYV@gmail.com,American,12/15/1981
+974,Pete,Docter,0,qWWwZ@gmail.com,American,11/22/1980
+975,David,Silverman,0,kplvSI@gmail.com,Canadian,07/07/2004
+976,Lee,Unkrich,1,DhOTOmFdK@gmail.com,Canadian,05/13/1978
+977,Peter,Weir,0,kpGdTphK@gmail.com,American,02/10/1979
+978,John,Ford,0,IugUvnBJk@gmail.com,American,04/25/1989
+979,John,Huston,0,sDKMvnzGm@gmail.com,Canadian,02/14/1995
+980,James,Cameron,0,HNFtHPmQX@gmail.com,Canadian,07/01/1971
+981,Yimou,Zhang,1,rlfxY@gmail.com,American,06/23/2009
+982,Park,Chan-Wook,1,MXjCWGOC@gmail.com,American,06/23/2004
+983,Richard,Attenborough,0,lKhGqra@gmail.com,Canadian,01/06/1971
+984,Mathieu,Kassovitz,0,pCKbQZa@gmail.com,American,10/02/1970
+985,Richard,Kelly,0,XSTCff@gmail.com,American,01/15/2001
+986,Kar-Wai,Wong,0,uCzhKQyx@gmail.com,American,12/08/2009
+987,Henri-Georges,Clouzot,1,nsyeFRo@gmail.com,Canadian,04/03/1975
+988,Harold,Ramis,0,GwHsGIhGnt@gmail.com,Canadian,05/28/1973
+989,Tate,Taylor,0,IlHrg@gmail.com,American,04/06/2007
+990,Victor,Fleming,0,iglozpLj@gmail.com,Canadian,09/05/2008
+991,George,Cukor,1,nKDCCIgC@gmail.com,American,10/02/2007
+992,Mervyn,LeRoy,1,QASwYiT@gmail.com,American,11/11/1993
+993,Steven,Spielberg,0,idYgVXchD@gmail.com,American,05/11/1988
+994,James,Gunn,1,knyZiYWfgj@gmail.com,American,03/03/1980
+995,Richard,Linklater,0,DIaTTD@gmail.com,Canadian,08/31/2005
+996,Hayao,Miyazaki,0,RQVIipgLtX@gmail.com,Canadian,03/07/2009
+997,Wim,Wenders,1,AXzwg@gmail.com,Canadian,09/03/1984
+998,Gore,Verbinski,1,KpQxBzaomC@gmail.com,Canadian,08/09/1986
+999,Gary,Trousdale,0,oxprJgC@gmail.com,Canadian,05/10/1974
+1000,Kirk,Wise,0,xkIPxxB@gmail.com,American,08/04/2004
+1001,William,Friedkin,1,EBScOidH@gmail.com,Canadian,04/28/1986
+1002,Krzysztof,Kieslowski,0,upzQkbvJzn@gmail.com,Canadian,05/03/1985
+1003,Katsuhiro,Ôtomo,0,LpyfR@gmail.com,American,08/15/1990
+1004,Anurag,Kashyap,1,xlXirE@gmail.com,Canadian,07/28/1990
+1005,Rajkumar,Hirani,1,IzxHgbjBI@gmail.com,Canadian,11/17/1982
