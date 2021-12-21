@@ -31,9 +31,7 @@ DEBUG = os.environ.get("DEVELOPMENT")
 
 ALLOWED_HOSTS = []
 
-
 # Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -41,8 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'dashboard',
     'api',
+    # 'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -54,8 +52,6 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-
-AUTH_USER_MODEL = 'dashboard.User'  # Changed default auth model
 
 ROOT_URLCONF = 'OpenGoggles.urls'
 
@@ -83,8 +79,12 @@ WSGI_APPLICATION = 'OpenGoggles.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'movies-db',
+        'USER': 'postgres',
+        'PASSWORD': os.environ.get("DB_PASSWORD"),
+        'HOST': 'localhost',
+        'PORT': '',
     }
 }
 
@@ -131,6 +131,3 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-LOGIN_URL = 'dashboard:login'
-LOGIN_REDIRECT_URL = 'dashboard:index'
