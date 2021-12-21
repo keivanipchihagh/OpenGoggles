@@ -1,10 +1,3 @@
-CREATE TABLE awards(
-   id          INTEGER  NOT NULL PRIMARY KEY 
-  ,title       VARCHAR(63) NOT NULL
-  ,people_id   INTEGER  NOT NULL
-  ,movie_id    INTEGER  NOT NULL
-  ,issued_date DATE  NOT NULL
-);
 INSERT INTO awards(id,title,people_id,movie_id,issued_date) VALUES (7,'107 wins & 140 nominations total',7,2,'08/08/1987');
 INSERT INTO awards(id,title,people_id,movie_id,issued_date) VALUES (12,'19 wins & 15 nominations total',12,4,'10/11/1994');
 INSERT INTO awards(id,title,people_id,movie_id,issued_date) VALUES (13,'Nominated for 1 BAFTA Film Award5 wins & 2 nominations total',13,4,'12/29/2009');

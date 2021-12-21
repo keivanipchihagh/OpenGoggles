@@ -1,7 +1,3 @@
-CREATE TABLE users_movies(
-   user_id  INTEGER  NOT NULL PRIMARY KEY 
-  ,movie_id INTEGER  NOT NULL
-);
 INSERT INTO users_movies(user_id,movie_id) VALUES (753,146);
 INSERT INTO users_movies(user_id,movie_id) VALUES (990,7);
 INSERT INTO users_movies(user_id,movie_id) VALUES (664,177);

@@ -55,10 +55,10 @@ CREATE TABLE "directors" (
 
 CREATE TABLE "awards" (
   "id" SERIAL PRIMARY KEY,
-  "title" varchar(30),
-  "person_id" int,
+  "title" varchar(100),
+  "people_id" int,
   "movie_id" int,
-  "issued_datetime" date
+  "issued_date" date
 );
 
 CREATE TABLE "users" (
@@ -75,11 +75,11 @@ CREATE TABLE "users_movies" (
 );
 
 CREATE TABLE "rents" (
-  "movied_id" int,
+  "movie_id" int,
   "user_id" int,
   "rented_date" date,
   "returned_date" date,
-  PRIMARY KEY ("movied_id", "user_id")
+  PRIMARY KEY ("movie_id", "user_id")
 );
 
 CREATE TABLE "purchases" (
@@ -101,7 +101,7 @@ ALTER TABLE "directors" ADD FOREIGN KEY ("people_id") REFERENCES "people" ("id")
 
 ALTER TABLE "directors" ADD FOREIGN KEY ("movie_id") REFERENCES "movies" ("id");
 
-ALTER TABLE "awards" ADD FOREIGN KEY ("person_id") REFERENCES "people" ("id");
+ALTER TABLE "awards" ADD FOREIGN KEY ("people_id") REFERENCES "people" ("id");
 
 ALTER TABLE "awards" ADD FOREIGN KEY ("movie_id") REFERENCES "movies" ("id");
 
@@ -111,7 +111,7 @@ ALTER TABLE "users_movies" ADD FOREIGN KEY ("user_id") REFERENCES "users" ("id")
 
 ALTER TABLE "users_movies" ADD FOREIGN KEY ("movie_id") REFERENCES "movies" ("id");
 
-ALTER TABLE "rents" ADD FOREIGN KEY ("movied_id") REFERENCES "movies" ("id");
+ALTER TABLE "rents" ADD FOREIGN KEY ("movie_id") REFERENCES "movies" ("id");
 
 ALTER TABLE "rents" ADD FOREIGN KEY ("user_id") REFERENCES "users" ("id");
 
