@@ -35,9 +35,11 @@ def insert(query, user):
     conn = None
     try:
         conn = get_db_connection(user)
+        conn.autocommit = True
         cursor = conn.cursor()
         cursor.execute(query)        
-        conn.commit()        
+        conn.commit()
+        return {'Status': 'Success'}
 
     except (Exception, psycopg2.DatabaseError) as error:
         return {'Error:', str(error)}
@@ -272,15 +274,32 @@ def rents_between(request):
 @api_view(['POST'])
 def add_purchase(request):
 
-    user_id = request.POST.get('user_id')
-    movie_id = request.POST.get('movie_id')
+    user_id = int(request.POST.get('user_id'))
+    movie_id = int(request.POST.get('movie_id'))
 
     if user_id is None or movie_id is None:
         return Response({'Error': 'Missing parameters'})
 
     user = request.META.get('HTTP_USER')
-    data = select(f'''
+    data = insert(f'''
         call purchase({user_id}, {movie_id})
+    ''',
+    user = user)
+    return Response(data)
+
+
+@api_view(['POST'])
+def add_rent(request):
+
+    user_id = int(request.POST.get('user_id'))
+    movie_id = int(request.POST.get('movie_id'))
+
+    if user_id is None or movie_id is None:
+        return Response({'Error': 'Missing parameters'})
+
+    user = request.META.get('HTTP_USER')
+    data = insert(f'''
+        call rent({user_id}, {movie_id})
     ''',
     user = user)
     return Response(data)
@@ -299,6 +318,42 @@ def add_movie(request):
     user = request.META.get('HTTP_USER')
     data = select(f'''
         INSERT INTO movies (id, title, runtime) VALUES ({id}, '{title}', {runtime})
+    ''',
+    user = user)
+    return Response(data)
+
+
+@api_view(['POST'])
+def send_gift(request):
+
+    user_id = request.POST.get('user_id')
+    friend_id = request.POST.get('friend_id')
+    movie_id = request.POST.get('movie_id')
+
+    if id is None or user_id is None or friend_id is None or movie_id is None:
+        return Response({'Error': 'Missing parameters'})
+
+    user = request.META.get('HTTP_USER')
+    data = insert(f'''
+        CALL gift ({user_id}, {friend_id}, {movie_id})
+    ''',
+    user = user)
+    return Response(data)
+
+
+@api_view(['POST'])
+def transfer_credit(request):
+
+    user_id = request.POST.get('user_id')
+    friend_id = request.POST.get('friend_id')
+    amount = request.POST.get('amount')
+
+    if id is None or user_id is None or friend_id is None or amount is None:
+        return Response({'Error': 'Missing parameters'})
+    
+    user = request.META.get('HTTP_USER')
+    data = insert(f'''
+        CALL transfer_credit({user_id}, {friend_id}, {amount})
     ''',
     user = user)
     return Response(data)

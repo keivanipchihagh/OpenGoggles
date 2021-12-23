@@ -13,7 +13,12 @@ urlpatterns = [
     path('awards_per_actors', awards_per_actors, name='awards_per_actors'),
     path('rents_between', rents_between, name='rents_between'),
 
-    # Triggers
-    path('add_purchase', add_purchase, name='add_purchase'),
+    # Triggers    
     path('add_movie', add_movie, name='add_movie'),
+
+    # Procedures
+    path('send_gift', send_gift, name='send_gift'),
+    path('add_purchase', add_purchase, name='add_purchase'),
+    path('add_rent', add_rent, name='add_rent'),
+    path('transfer_credit', transfer_credit, name='transfer_credit'),
 ]
