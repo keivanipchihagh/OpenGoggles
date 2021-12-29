@@ -15,10 +15,11 @@ urlpatterns = [
 
     # Triggers    
     path('add_movie', add_movie, name='add_movie'),
+    # path('send_credit', send_credit, name='send_credit'),
 
     # Procedures
     path('send_gift', send_gift, name='send_gift'),
     path('add_purchase', add_purchase, name='add_purchase'),
     path('add_rent', add_rent, name='add_rent'),
-    path('transfer_credit', transfer_credit, name='transfer_credit'),
+    path('send_money', send_money, name='send_money'),
 ]

@@ -9,7 +9,7 @@ def get_db_connection(user = None):
     db_host = os.environ['DB_HOST']
     db_name = os.environ['DB_NAME']
     db_user = os.environ['DB_USER'] if user is None else user   # Use the user passed in if it's None, otherwise use default (postgres: Root access)
-    db_password = os.environ['DB_PASSWORD']
+    db_password = os.environ['DB_PASSWORD'] if user is None else '12345'
     return psycopg2.connect(host=db_host, database=db_name, user=db_user, password=db_password)
 
 
@@ -342,7 +342,7 @@ def send_gift(request):
 
 
 @api_view(['POST'])
-def transfer_credit(request):
+def send_money(request):
 
     user_id = request.POST.get('user_id')
     friend_id = request.POST.get('friend_id')
@@ -353,7 +353,7 @@ def transfer_credit(request):
     
     user = request.META.get('HTTP_USER')
     data = insert(f'''
-        CALL transfer_credit({user_id}, {friend_id}, {amount})
+        CALL send_money({user_id}, {friend_id}, {amount})
     ''',
     user = user)
     return Response(data)

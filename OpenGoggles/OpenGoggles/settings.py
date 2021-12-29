@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'OpenGoggles.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'movies-db',
+        'NAME': 'moviesdb',
         'USER': 'postgres',
         'PASSWORD': os.environ.get("DB_PASSWORD"),
         'HOST': 'localhost',
