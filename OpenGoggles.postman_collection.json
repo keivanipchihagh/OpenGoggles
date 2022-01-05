@@ -1,0 +1,490 @@
+{
+	"info": {
+		"_postman_id": "76daff3e-a681-4652-946f-6fec7ce375c8",
+		"name": "OpenGoggles",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "reports",
+			"item": [
+				{
+					"name": "Query: actors_crosstab_genres",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/actors_crosstab_genres",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"actors_crosstab_genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Query: select_movies",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/select_movies?title&type=movie&writer&released&rated=R&language=English&country",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"select_movies"
+							],
+							"query": [
+								{
+									"key": "title",
+									"value": null
+								},
+								{
+									"key": "type",
+									"value": "movie"
+								},
+								{
+									"key": "writer",
+									"value": null
+								},
+								{
+									"key": "released",
+									"value": null
+								},
+								{
+									"key": "rated",
+									"value": "R"
+								},
+								{
+									"key": "language",
+									"value": "English"
+								},
+								{
+									"key": "country",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Query: actors_rollup_genres",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "user",
+								"value": "moviesdb",
+								"type": "string",
+								"disabled": true
+							}
+						],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/actors_rollup_genres",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"actors_rollup_genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Query: genre_popularity",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "user",
+								"value": "moviesdb",
+								"type": "string"
+							}
+						],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/genre_popularity",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"genre_popularity"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Func: movies_by_actor",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/movies_by_actor?first_name=Brad&last_name=Pitt",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"movies_by_actor"
+							],
+							"query": [
+								{
+									"key": "first_name",
+									"value": "Brad"
+								},
+								{
+									"key": "last_name",
+									"value": "Pitt"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Func: rents_between",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/rents_between?rented_date=2000-01-01&returned_date=2010-01-01",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"rents_between"
+							],
+							"query": [
+								{
+									"key": "rented_date",
+									"value": "2000-01-01"
+								},
+								{
+									"key": "returned_date",
+									"value": "2010-01-01"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Func: awards_per_actors",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/awards_per_actors?threshold=2",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"awards_per_actors"
+							],
+							"query": [
+								{
+									"key": "threshold",
+									"value": "2"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "triggers",
+			"item": [
+				{
+					"name": "add_movie",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "id",
+									"value": "300",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "Test Movie",
+									"type": "text"
+								},
+								{
+									"key": "runtime",
+									"value": "400",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/add_movie",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"add_movie"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "send_credit",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "id",
+									"value": "300",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "Test Movie",
+									"type": "text"
+								},
+								{
+									"key": "runtime",
+									"value": "400",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "procedures",
+			"item": [
+				{
+					"name": "send_gift",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "user_id",
+									"value": "1005",
+									"type": "text"
+								},
+								{
+									"key": "friend_id",
+									"value": "1004",
+									"type": "text"
+								},
+								{
+									"key": "movie_id",
+									"value": "101",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/send_gift",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"send_gift"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "send_money",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "user_id",
+									"value": "601",
+									"type": "text"
+								},
+								{
+									"key": "friend_id",
+									"value": "602",
+									"type": "text"
+								},
+								{
+									"key": "amount",
+									"value": "10",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/send_money",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"send_money"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "add_rent",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "user_id",
+									"value": "1005",
+									"type": "text"
+								},
+								{
+									"key": "movie_id",
+									"value": "102",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/add_rent",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"add_rent"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "add_purchase",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "user_id",
+									"value": "600",
+									"type": "text"
+								},
+								{
+									"key": "movie_id",
+									"value": "5",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/add_purchase",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"add_purchase"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
